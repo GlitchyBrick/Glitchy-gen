@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "CaptchaEnabled": true,
+  "CaptchaEndPoint": true,
+  "TriviaEnabled": true,
+  "TriviaEndPoint": true
+}
