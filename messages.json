@@ -1,0 +1,21 @@
+{
+  "OutOfStock": "This Product Is Out Of Stock! Staff Will Be Notified And You Will Receive This Product Shortly. Dont Leave This Server So We Can Contact You!",
+  "ServicesDown": "OOF! Looks Like Our Services Are Down. Please Check Back Later!",
+  "AhmedErrorMessage1": "You Need 20 Invites To Use That! (Or The Gen Access Role.)",
+  "MissingAdministratorPerm": "You Need The 'ADMINISTRATOR' Permission To Run This Command!",
+  "MissingManageMessagesPerm": "You Need The 'MANAGE_MESSAGES' Permission To Run This Command!",
+  "Port": "http://jasonkaranikgen1.glitch.me/",
+  "BlockedUser": "Stop Trying To Use This Command, You Are Banned. Make Your Parents Proud Of You For Once...",
+  "AhmedServerID": "698263476451410080",
+  "Ahmed20InvitesRoleID": "703699195776991245",
+  "RefillRGNoPerm": "Im Sorry But Only The Owner Can Access This.",
+  "CaptchaDown": "Captcha Is Currently Unavailable.",
+  "CaptchaEndPointUnavailable": "Endpoint Is Unavailable. StatusCode: 404",
+  "TriviaDown": "Trivia is Currently Unavailable",
+  "TriviaEndPointUnavailable": "Endpoint is Unavailable. StatusCode: 404",
+  "GGServer": "712096132213506120",
+  "GGServerGA": "712096132657840250",
+  "GGGAE": "You Need 5 Invites To Use That! (Or The Gen Access Role.)",
+  "OfflineStatus": ":red_square:  The Bot is Currently Down :/ The Owner Might be Updating the code or it has been crashed Go to Glitchy Gen Discord Server For More Info ",
+  "OnlineStatus": ":green_square:  The Bot is up and Working Fine :D"
+}
