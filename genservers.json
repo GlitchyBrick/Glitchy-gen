@@ -1,0 +1,73 @@
+{
+  "DeadGamersPlace": {
+    "ServerID": "698263476451410080",
+    "NeededInvites": 20,
+    "settings": {
+      "RoleIDs": {
+        "default": "703699195776991245",
+        "premium": "",
+        "boost": "",
+        "bypass": ""
+      },
+      "cooldowns": {
+        "default": 300000,
+        "premium": 30000,
+        "boost": 15000
+      }
+    }
+  },
+  "GlitchyGen": {
+    "ServerID": "712096132213506120",
+    "NeededInvites": 5,
+    "settings": {
+      "RoleIDs": {
+        "default": "712096132657840250",
+        "premium": "714084258276442132",
+        "boost": "713102108328722443",
+        "bypass": "714471496504049727"
+      },
+      "cooldowns": {
+        "default": 300000,
+        "premium": 30000, 
+        "boost": 15000
+      }
+    }
+  },
+    "Nie zapraszaj nikomu/nikogo": {
+    "ServerID": "696092419493462047",
+    "NeededInvites": 0,
+    "settings": {
+      "RoleIDs": {
+        "default": "716653222869074000",
+        "premium": "",
+        "boost": "",
+        "bypass": ""
+      },
+      "cooldowns": {
+        "default": 900000,
+        "premium": 30000, 
+        "boost": 15000
+      }
+    }
+  },
+  "GenAlternator": {
+    "ServerID": "703207473800151091",
+    "NeededInvites": 10,
+    "settings": {
+      "RoleIDs": {
+        "default": "",
+        "premium": "719202844275638342",
+        "boost": "719230649130811442",
+        "bypass": ""
+      },
+      "cooldowns": {
+        "default": 900000,
+        "premium": 30000, 
+        "boost": 10000
+      }
+    }
+  }
+}
+
+
+
