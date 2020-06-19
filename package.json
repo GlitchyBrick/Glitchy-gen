@@ -1,0 +1,25 @@
+{
+  "name": "glitchygen",
+  "version": "1.0.0",
+  "description": "a account generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:discordjs/Commando",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "request": "^2.88.2",
+    "discord-giveaways": "^4.1.8",
+    "quick.db": "^7.1.1",
+    "discord-jokes": "^1.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
