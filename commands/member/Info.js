@@ -14,7 +14,7 @@ module.exports = class GensCommand extends Command {
   constructor(client) {
     super(client, {
       name: 'info',
-      group: 'generatorcmds',
+      group: 'member',
       memberName: 'info',
       guildOnly: true,
       description: 'test'
@@ -25,10 +25,10 @@ module.exports = class GensCommand extends Command {
     const exampleEmbed = new Discord.MessageEmbed()
     .setColor('#0099ff')
     .setTitle('Info: ')
-    .setDescription('Glitchy Gen Bot Has Been Made By 🌴Glitchy Brick🌴#5178')
+    .setDescription('Glitchy Gen Bot Has Been Made By GLiTchY LoSt EvRyThiNG#7129')
     .addField('What is Glitchy Gen?', 'Glitchy Gen is a Fun and Easy Bot to Generates Accounts like Spotify and Disney')
     .addField('Why Use Glitchy gen?', 'Unlike Other Gens We Check the Accounts are Working or Not Before Stocking em so this means you dont need to wait around trying to get a working account(Not Nitro Codes) and Our Bot is Easy to Use. Just Use it. Its Better Becuase I says so and u gotta listen to me because i have IQ 1 mil')
-    .addField('Credits','Made by 🌴Glitchy Brick🌴#5178 Helped by 🌴 Jasonkaranik 🌴#4209 Hes an Amazing Dude thx for the Help :D')
+    .addField('Credits','Made by GLiTchY LoSt EvRyThiNG#7129 Helped by GLiTchY LoSt EvRyThiNG#7129 Hes an Amazing Dude thx for the Help :D')
    
     message.say(exampleEmbed)
   }
