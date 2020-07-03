@@ -6,8 +6,8 @@ const db = require("quick.db")
 module.exports = class HelpCommand extends Command {
   constructor(client) {
     super(client, {
-      name: "costomstatus",
-      group: "generatorcmds",
+      name: "121006",
+      group: "owner",
       memberName: "costomstatus",
       guildOnly: true,
       description: "test"
@@ -16,11 +16,10 @@ module.exports = class HelpCommand extends Command {
 
   run(message) {
     
-    //OWNER ONLY COMMAND
-    if(!message.author.id === "505795166309842965") {
-      return message.channel.send("This command can only be used by owner")
-    }
-    //ARGUMENT
+    rete
+    
+    message.delete()
+      //ARGUMENT
     const args = message.content.slice(";").split(" ");
     const command = args.shift().toLowerCase();
 
@@ -36,10 +35,9 @@ module.exports = class HelpCommand extends Command {
     }
     
  db.set(`status`, args.join(" "))
-   message.channel.send("Updated the bot status")
+   message.reply("Updated the bot status")
     process.exit(1);
 
-    
-    
+   
   }
 }
