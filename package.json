@@ -9,12 +9,12 @@
   "dependencies": {
     "discord.js": "github:discordjs/discord.js",
     "discord.js-commando": "github:discordjs/Commando",
-    "express": "^4.17.1",
     "fs": "^0.0.2",
     "request": "^2.88.2",
     "discord-giveaways": "^4.1.8",
     "quick.db": "^7.1.1",
-    "discord-jokes": "^1.0.12"
+    "discord-jokes": "^1.0.12",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
