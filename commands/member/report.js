@@ -6,45 +6,70 @@ const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
 const mentionHook = new Discord.WebhookClient(
-  "721949189524815974",
-  "-dZlLeTMPJBaGCMzXD8jz-05uheVBRhzFcanpt84u7HYC2TGnnHdc0bjexh9_DRronhM")
+  "726784860320039013",
+  "t9zEFAPOu2mS6Z_J55N4j6IoCC9Hnkr7b8cjPSXYvXCtobelLh5ipWzBFZHdVqxrCaXQ")
 
 module.exports = class ReportCommand extends Command {
   constructor(client) {
     super(client, {
       name: "report",
-      group: "generatorcmds",
+      group: "member",
       memberName: "report",
       guildOnly: true,
       description: "test",
-      args: [
-        {
-          key: "issue",
-          prompt: "Please Say The Issue. This is a Warning any False Reports Will conclude in the Bot Banning u This Means u cant use the bot So Dont Make False Claims",
-          type: "string"
-          //validate: givenLink
-        }
-      ]
+      throttling: {
+        usages: 1,
+        duration: 60 * 5
+      }
     });
   }
 
-  run(message, { issue }) {
+  run(message) {
     
-    if (message.author.id && blockedusers.includes(message.author.id)) {
+      if (message.author.id && blockedusers.includes(message.author.id)) {
       message.say(messages.BlockedUser);
       return;
     }
+  
+    if(settings.Enabled==false){
+      message.say(messages.ServicesDown)
+      return;
+    }
     
-    const exampleEmbed = new Discord.MessageEmbed()
-      .setColor("#ff0000")
-      .setTitle("Report: ")
-      .setDescription("An issue has been Reported For Glitchy Gen")
-      .addField("Report Sent By", message.author.toString())
-      .addField("Report", issue)
-    .addField("You Can See Your Report in:","https://discord.gg/HdP7Uhv")
+        const args = message.content.slice(";").split(" ");
+    const command = args.shift().toLowerCase();
+
+    if (!args[0]) {
+      message.reply("You Cant Report Nothing Bruh!!");
+    }
+
+    var argz = "";
+
+    for (var arg in args) {
+      var argz = argz + args[arg] + " ";
+    }
+    
+    if(argz) {
+      
+      message.channel
+        .createInvite({ maxUses: 0, unique: false, maxAge: 0 })
+        .then(invite => {
+      
+      const exampleEmbed = new Discord.MessageEmbed()
+      exampleEmbed.setColor("#ff0000");
+      exampleEmbed.setTitle("Report: ");
+      exampleEmbed.setDescription("An Report Has Been Made For Glitchy Gen");
+      exampleEmbed.addField("Report", argz);
+      exampleEmbed.addField("You Can See Your Report in:", "https://discord.gg/HdP7Uhv");
+      exampleEmbed.setFooter("Report Came From: " + message.author.username + "#" + message.author.discriminator + "\nServer: " + "https://discord.gg/" + invite.code);
+      
     mentionHook.send(exampleEmbed);
-    message.say(exampleEmbed);
-   
+    message.say(exampleEmbed).then(sentEmbed => {
+        sentEmbed.react("✅");
+      });
+        
+     })
+    }
   }
 };
 
