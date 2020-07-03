@@ -7,7 +7,7 @@ module.exports = class VoteCommand extends Command {
   constructor(client) {
     super(client, {
       name: "poll",
-      group: "generatorcmds",
+      group: "admin",
       memberName: "poll",
       guildOnly: false,
       description: "test"
