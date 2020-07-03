@@ -7,7 +7,7 @@ module.exports = class PortCommand extends Command {
   constructor(client) {
     super(client, {
       name: "port",
-      group: "generatorcmds",
+      group: "member",
       memberName: "port",
       guildOnly: true,
       description: "test",
