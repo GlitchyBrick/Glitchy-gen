@@ -14,7 +14,7 @@ module.exports = class DropCommand extends Command {
   constructor(client) {
     super(client, {
       name: "drop",
-      group: "generatorcmds",
+      group: "admin",
       memberName: "drop",
       guildOnly: true,
       description: "test",
@@ -40,7 +40,7 @@ module.exports = class DropCommand extends Command {
     }
     message.delete();
     if (message.member.hasPermission(["MANAGE_MESSAGES"])) {
-      message.say("<@&713843008919044156>");
+      message.say("@here");
       const exampleEmbed = new Discord.MessageEmbed()
         .setColor("#0099ff")
         .setTitle("Drop Time!")
