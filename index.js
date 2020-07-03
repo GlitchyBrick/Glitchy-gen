@@ -111,7 +111,7 @@ Contstants.DefaultOptions.ws.properties.$browser = 'Discord iOS'
 
 const client = new CommandoClient({
   commandPrefix: prefix,
-  owner: '456943275757010944' // change this to your Discord user ID
+  owner: '505795166309842965' // change this to your Discord user ID
 });
 
 // Requires Manager from discord-giveaways
@@ -137,10 +137,10 @@ const wait = require('util').promisify(setTimeout);
 
 client.registry
  .registerDefaultTypes()
-  .registerGroups([
-    ['generatorcmds', 'Generator CMDS']
-  ])
+  .registerGroups([['generatorcmds', 'Generator CMDS']])
   .registerGroups([["admin", "Admin Commands"]])
+  .registerGroups([["member", "Member Commands"]])
+  .registerGroups([["owner", "Owner Commands"]])
 .registerDefaultGroups()
 .registerDefaultCommands({
 	help: false
