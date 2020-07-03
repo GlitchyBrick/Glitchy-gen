@@ -14,7 +14,7 @@ module.exports = class HelpCommand extends Command {
   constructor(client) {
     super(client, {
       name: "contact",
-      group: "generatorcmds",
+      group: "member",
       memberName: "contact",
       guildOnly: true,
       description: "test"
@@ -29,7 +29,7 @@ module.exports = class HelpCommand extends Command {
         "Contact me if you Find any Bugs, Glitchs or If you Have Any Questions or Sugestions :D"
       )
       .addField("Discord Tag", "GLiTchY LoSt EvRyThiNG#7129")
-      .addField("Owners Discord Server", "https://discord.gg/HdP7Uhv")
+      .addField("Owners Discord Server", "https://discord.gg/wW2frdF")
       .addField(
         "--------------------Socials:--------------------",
         "Follow or Subscribe to Me"
