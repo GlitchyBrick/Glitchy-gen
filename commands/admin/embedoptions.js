@@ -6,7 +6,7 @@ module.exports = class SayCommand extends Command {
   constructor(client) {
     super(client, {
       name: "embedoptions",
-      group: "generatorcmds",
+      group: "admin",
       memberName: "embedoptions",
       guildOnly: true,
       description: "test",
