@@ -13,7 +13,7 @@ module.exports = class RedeemCommand extends Command {
   constructor(client) {
     super(client, {
       name: "status",
-      group: "generatorcmds",
+      group: "member",
       memberName: "status",
       guildOnly: true,
       description: "test",
