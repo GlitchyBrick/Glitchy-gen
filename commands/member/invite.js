@@ -5,15 +5,12 @@ const { Client, MessageAttachment } = require("discord.js");
 const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
-const mentionHook = new Discord.WebhookClient(
-  "713022747420262716",
-  "l1LSZO4yaDfR1re9SfMnne8Uw4Bvk3a4Q1G4Y5l7aGK50swletcUBMHjGV_yjggLXI1O"
-);
+
 module.exports = class HelpCommand extends Command {
   constructor(client) {
     super(client, {
       name: "invite",
-      group: "generatorcmds",
+      group: "member",
       memberName: "invite",
       guildOnly: true,
       description: "test"
@@ -21,7 +18,32 @@ module.exports = class HelpCommand extends Command {
   }
 
   run(message) {
-    message.say("Stop Trying to Invite Glitchy Gen. This Bot is Private if You Want the bots Invite Link Boost Glitchy Gen Server");
-    message.say("Dm <@456943275757010944> For More Info");
+      if (message.author.id && blockedusers.includes(message.author.id)) {
+      message.say(messages.BlockedUser);
+      return;
+    }
+  
+    if(settings.Enabled==false){
+      message.say(messages.ServicesDown)
+      return;
+    }
+   if(settings.MemberCMDS==false){
+      message.say(messages.MemberDown)
+      return;
+    }
+    
+const exampleEmbed = new Discord.MessageEmbed()
+.setTitle("BOT INVITE LINK")
+.setColor("#00ff1e")
+.setAuthor("Glitchy Gen", "https://cdn.glitch.com/2a0a3e33-f2b8-43ce-9c36-2ffd8bd97c3a%2Fglitchy_brick.jpg?v=1589198677464")
+.setURL("https://discord.com/api/oauth2/authorize?client_id=719926795255677280&permissions=8&scope=bot")
+.setDescription("**Click On The Blue Title Above to Invite Glitchy Gen to Your Server :D**")
+.setTimestamp()
+.setFooter("Made By GLiTchY LoSt EvRyThiNG#7129")
+message.say(exampleEmbed)
+    
+    
+    
+    
   }
 };
