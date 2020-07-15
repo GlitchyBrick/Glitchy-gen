@@ -15,9 +15,6 @@ module.exports = class HelpCommand extends Command {
   }
 
   run(message) {
-    
-    rete
-    
     message.delete()
       //ARGUMENT
     const args = message.content.slice(";").split(" ");

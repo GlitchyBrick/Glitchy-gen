@@ -5,6 +5,7 @@ const { Client, MessageAttachment } = require("discord.js");
 const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
+const blockedservers = JSON.parse(fs.readFileSync("./blockedservers.json"));
 
 module.exports = class HelpCommand extends Command {
   constructor(client) {

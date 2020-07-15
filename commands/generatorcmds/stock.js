@@ -48,11 +48,7 @@ module.exports = class StockCommand extends Command {
     var Hulu_FileBuffer =  fs.readFileSync("./Hulu.txt");
     var Hulu_File_Buffer_To_String = Hulu_FileBuffer.toString();
     var Hulu_File_Buffer_Split_Lines = Hulu_File_Buffer_To_String.split("\n");
-    
-    var Nitro_FileBuffer =  fs.readFileSync("./Nitro.txt");
-    var Nitro_File_Buffer_To_String = Nitro_FileBuffer.toString();
-    var Nitro_File_Buffer_Split_Lines = Nitro_File_Buffer_To_String.split("\n");
-    
+  
     var Robloxg_FileBuffer =  fs.readFileSync("./Robloxgroup.txt");
     var Robloxg_File_Buffer_To_String = Robloxg_FileBuffer.toString();
     var Robloxg_File_Buffer_Split_Lines = Robloxg_File_Buffer_To_String.split("\n");
@@ -79,7 +75,6 @@ module.exports = class StockCommand extends Command {
     .addField('Hulu', Hulu_File_Buffer_Split_Lines.length-1)
     .addField('Roblox Groups', Robloxg_File_Buffer_Split_Lines.length-1)
     .addField('Steam', Steam_File_Buffer_Split_Lines.length-1)
-    .addField('Nitro (NOT WORKING)', Nitro_File_Buffer_Split_Lines.length-1)
     .addField('Account Lists', Acc_File_Buffer_Split_Lines.length-1)
     
     message.say(exampleEmbed)

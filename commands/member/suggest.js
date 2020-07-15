@@ -5,8 +5,8 @@ const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
 const mentionHook = new Discord.WebhookClient(
-  "726785669506138124",
-  "U_-Wiq4LD_Frw30nJNFouCNf7DxT7VhEJOkR4-91FWAHYJZ7nymHZLCjjxP-taf4VZ5M"
+  "729361649471062088",
+  "oA89hHdJoBHQb2nvQdkToHoiZscEL_hqa8l2N7Tc8ucmE4v4OYK5vd_rtzHpH7sHwYL7"
 );
 
 module.exports = class RedeemCommand extends Command {

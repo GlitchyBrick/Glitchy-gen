@@ -5,9 +5,10 @@ const { Client, MessageAttachment } = require("discord.js");
 const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
+const blockedservers = JSON.parse(fs.readFileSync("./blockedservers.json"));
 const mentionHook = new Discord.WebhookClient(
-  "721948763605827594",
-  "shAwFWj151m0Kf8VRiaYkXh-iHRh0gTia1cXia0bozBQDToErjuz9PN9LARuECBnt7Is"
+  "729360447521685586",
+  "sRlm5IYmDAUh97HuC6sTPGw_vE2WeRx1v-MlmdsbWB1PqBWpNof7aQO9baiVzygtUesT"
 );
 
 module.exports = class CaptchaCommand extends Command {
@@ -33,6 +34,16 @@ module.exports = class CaptchaCommand extends Command {
     
     if (settings.Enabled === false) {
       return message.say(messages.ServicesDown);
+    }
+    
+    if (message.author.id && blockedusers.includes(message.author.id)) {
+      message.say(messages.BlockedUser);
+      return;
+    }
+    
+       if (message.guild.id && blockedservers.includes(message.guild.id)) {
+      message.say(messages.BlockedServers);
+      return;
     }
 
     let availableprizesfile = [
@@ -103,45 +114,15 @@ module.exports = class CaptchaCommand extends Command {
       });
     }
     
-     function genlink(itn,inside) {
-      const linkmanager = require("/app/utils/linkmanager.js");
-      function getl() {
-        let code = "";
-        let dict =
-          "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        for (var i = 0; i < 50; i++) {
-          code = code + dict.charAt(Math.floor(Math.random() * dict.length));
-        }
-        return code;
-      }
-      var g = getl()
-      if (!linkmanager.exists(g + ".json")) {
-        linkmanager.create(g + ".json", g, inside);
-        var rnlink = linkmanager.get(g + ".json");
-        rnlink.inside = itn + ': ' + inside;
-        rnlink.link = g;
-        linkmanager.update(g + ".json", rnlink);
-        var ix = require("/app/index.js");
-        setTimeout(() => {
-          message.say(
-            "<@" + message.author.id + ">, Check Your DMS! :mailbox:"
-          );
-          const exampleEmbed = new Discord.MessageEmbed();
-          //#0099ff
-          exampleEmbed.setColor("GREEN");
-          exampleEmbed.setTitle("Delivery:");
-          exampleEmbed.setDescription(
-            "Click There To [Claim](https://glitchy-gen.glitch.me/" +
-              g +
-              ")"
-          );
+     function genlink(itn,insidee) {
+      message.say("<@" + message.author.id + ">, Check Your DMS! :mailbox:");
+      const exampleEmbed = new Discord.MessageEmbed();
+      //#0099ff
+      exampleEmbed.setColor("GREEN");
+      exampleEmbed.setTitle(itn + " Delivery:");
+      exampleEmbed.setDescription(insidee);
 
-          message.author.send(exampleEmbed);
-          ix.rlinks();
-        }, 1000);
-      } else {
-        genlink(itn,inside);
-      }
+      message.author.send(exampleEmbed);
     }
 
     function makecode() {
