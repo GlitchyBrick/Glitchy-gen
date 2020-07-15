@@ -6,8 +6,9 @@ const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
 const mentionHook = new Discord.WebhookClient(
-  "726784860320039013",
-  "t9zEFAPOu2mS6Z_J55N4j6IoCC9Hnkr7b8cjPSXYvXCtobelLh5ipWzBFZHdVqxrCaXQ")
+  "729362400234438746",
+  "jyGxFnRTMIt9WcKRIzFCuYMPBNAiSLKPsN5BH0MLGWAL9a9jQF13zy55RQRyqNdaQYd3"
+); 
 
 module.exports = class ReportCommand extends Command {
   constructor(client) {

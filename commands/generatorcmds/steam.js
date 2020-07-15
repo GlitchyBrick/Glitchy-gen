@@ -5,10 +5,11 @@ const { Client, MessageAttachment } = require("discord.js");
 const messages = JSON.parse(fs.readFileSync("./messages.json"));
 const settings = JSON.parse(fs.readFileSync("./settings.json"));
 const blockedusers = JSON.parse(fs.readFileSync("./blockedusers.json"));
+const blockedservers = JSON.parse(fs.readFileSync("./blockedservers.json"));
 const UsedByRecently = new Set();
 const mentionHook = new Discord.WebhookClient(
-  "721948763605827594",
-  "shAwFWj151m0Kf8VRiaYkXh-iHRh0gTia1cXia0bozBQDToErjuz9PN9LARuECBnt7Is"
+  "729360447521685586",
+  "sRlm5IYmDAUh97HuC6sTPGw_vE2WeRx1v-MlmdsbWB1PqBWpNof7aQO9baiVzygtUesT"
 );
 
 module.exports = class MinecraftCommand extends Command {
@@ -27,6 +28,22 @@ module.exports = class MinecraftCommand extends Command {
   }
 
   run(message) {
+    
+    if (settings.Enabled == false) {
+      message.say(messages.ServicesDown);
+      return;
+    }
+
+    if (message.author.id && blockedusers.includes(message.author.id)) {
+      message.say(messages.BlockedUser);
+      return;
+    }
+    
+       if (message.guild.id && blockedservers.includes(message.guild.id)) {
+      message.say(messages.BlockedServers);
+      return;
+    }
+
     let fs = require("fs");
 
     var Steam_File_Buffer = fs.readFileSync("./Steam.txt");
@@ -50,18 +67,6 @@ module.exports = class MinecraftCommand extends Command {
         });
         return;
       }
-    
-     if(settings.Enabled==false){
-      message.say(messages.ServicesDown)
-      return;
-    }
-
-    
-    if(message.author.id && blockedusers.includes(message.author.id)){
-       message.say(messages.BlockedUser)
-       return;
-     }
-
     
     function procced() {
       fs.readFile("./Steam.txt", function read(err, data) {
@@ -99,7 +104,7 @@ module.exports = class MinecraftCommand extends Command {
       const exampleEmbed = new Discord.MessageEmbed();
       //#0099ff
       exampleEmbed.setColor("GREEN");
-      exampleEmbed.setTitle("Delivery:");
+      exampleEmbed.setTitle("Steam Delivery:");
       exampleEmbed.setDescription(insidee);
 
       message.author.send(exampleEmbed);
