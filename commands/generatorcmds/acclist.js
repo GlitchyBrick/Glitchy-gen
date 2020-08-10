@@ -112,74 +112,67 @@ module.exports = class MinecraftCommand extends Command {
       return;
     }
 
-    const genservers = JSON.parse(fs.readFileSync("./genservers.json"));
+    const genservers = JSON.parse(fs.readFileSync("/app/genservers.json"));
 
+  
     var gr = false;
 
     for (var attributename in genservers) {
+      
+      const defaultrole = genservers[attributename]["settings"]["RoleIDs"]["default"]
+      const premiumrole = genservers[attributename]["settings"]["RoleIDs"]["premium"]
+      const boosterrole = genservers[attributename]["settings"]["RoleIDs"]["boost"]
+      const bypassrole = genservers[attributename]["settings"]["RoleIDs"]["bypass"]
+        
+      const defaultcooldown = genservers[attributename]["settings"]["cooldowns"]["default"]
+      const premiumcooldown = genservers[attributename]["settings"]["cooldowns"]["premium"]
+      const boostercooldown = genservers[attributename]["settings"]["cooldowns"]["boost"]
+      
       if (message.guild.id === genservers[attributename]["ServerID"]) {
-        //procced();
-        gr = true;
-        //message.say("premium");
-        if (!message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["premium"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["boost"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["bypass"]) && message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["default"])
-        ) {
-          // default
+        
+        //if(typeof defaultrole === "undefined" || typeof premiumrole === "undefined" || typeof boosterrole === "undefined" || typeof bypassrole === "undefined"){ return console.error("Invalid Role IDs")}
+        
+        if(message.member.roles.cache.has(defaultrole)){
           procced();
-          gr = true;
           UsedByRecently.add(message.author.id);
-          console.log("d");
           setTimeout(() => {
             UsedByRecently.delete(message.author.id);
-          }, genservers[attributename]["settings"]["cooldowns"]["default"]);
+          }, defaultcooldown);
+          return console.log("Default")
         }
-        if (!message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["default"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["premium"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["bypass"]) && message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["boost"])
-        ) {
-          // boost
-          console.log("b");
+        
+        if(message.member.roles.cache.has(premiumrole)){
           procced();
-          gr = true;
           UsedByRecently.add(message.author.id);
           setTimeout(() => {
             UsedByRecently.delete(message.author.id);
-          }, genservers[attributename]["settings"]["cooldowns"]["boost"]);
+          }, premiumcooldown);
+          return console.log("Premium")
         }
-        if (!message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["default"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["boost"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["bypass"]) && message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["premium"])
-        ) {
-          // premium
-          console.log("p");
+        
+        if(message.member.roles.cache.has(boosterrole)){
           procced();
-          gr = true;
           UsedByRecently.add(message.author.id);
           setTimeout(() => {
             UsedByRecently.delete(message.author.id);
-          }, genservers[attributename]["settings"]["cooldowns"]["premium"]);
+          }, boostercooldown);
+          return console.log("Booster")
         }
-        if (!message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["default"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["boost"]) && !message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["premium"]) && message.member.roles.cache.has(genservers[attributename]["settings"]["RoleIDs"]["bypass"])
-        ) {
-          // premium
-          console.log("b2");
+        
+        if(message.member.roles.cache.has(bypassrole)){
           procced();
-          gr = true;
-          UsedByRecently.add(message.author.id);
-          setTimeout(() => {
-            UsedByRecently.delete(message.author.id);
-          }, 100);
+          return console.log("Bypass")
         }
       }
     }
-
     setTimeout(() => {
-      if (gr === false) {
-        // default
-        procced();
-        gr = true;
-        console.log("d");
-        UsedByRecently.add(message.author.id);
-        setTimeout(() => {
-          UsedByRecently.delete(message.author.id);
-        }, genservers[attributename]["settings"]["cooldowns"]["default"]);
-      }
-    }, 1000);
+      procced();
+      UsedByRecently.add(message.author.id);
+      setTimeout(() => {
+        UsedByRecently.delete(message.author.id);
+      }, 300000);
+      return console.log("Not Server Default")
+    }, 1000)
   }
 };
 

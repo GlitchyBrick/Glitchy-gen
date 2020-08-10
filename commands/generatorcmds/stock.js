@@ -36,15 +36,7 @@ module.exports = class StockCommand extends Command {
     var Disney_FileBuffer =  fs.readFileSync("./Disney.txt");
     var Disney_File_Buffer_To_String = Disney_FileBuffer.toString();
     var Disney_File_Buffer_Split_Lines = Disney_File_Buffer_To_String.split("\n");
-    
-    var Wish_FileBuffer =  fs.readFileSync("./Wish.txt");
-    var Wish_File_Buffer_To_String = Wish_FileBuffer.toString();
-    var Wish_File_Buffer_Split_Lines = Wish_File_Buffer_To_String.split("\n");
-    
-    var Slingtv_FileBuffer =  fs.readFileSync("./slingtv.txt");
-    var Slingtv_File_Buffer_To_String = Slingtv_FileBuffer.toString();
-    var Slingtv_File_Buffer_Split_Lines = Slingtv_File_Buffer_To_String.split("\n");
-    
+  
     var Hulu_FileBuffer =  fs.readFileSync("./Hulu.txt");
     var Hulu_File_Buffer_To_String = Hulu_FileBuffer.toString();
     var Hulu_File_Buffer_Split_Lines = Hulu_File_Buffer_To_String.split("\n");
@@ -61,21 +53,22 @@ module.exports = class StockCommand extends Command {
     var Steam_File_Buffer_To_String = Steam_FileBuffer.toString();
     var Steam_File_Buffer_Split_Lines = Steam_File_Buffer_To_String.split("\n");
     
+    const all = Minecraft_File_Buffer_Split_Lines.length-1 + Origin_File_Buffer_Split_Lines.length-1 + Crunchyroll_File_Buffer_Split_Lines.length-1 + Nordvpn_File_Buffer_Split_Lines.length-1 + Disney_File_Buffer_Split_Lines.length-1 + Hulu_File_Buffer_Split_Lines.length-1 + Robloxg_File_Buffer_Split_Lines.length-1 + Steam_File_Buffer_Split_Lines.length-1 + Acc_File_Buffer_Split_Lines.length-1
+    
     const exampleEmbed = new Discord.MessageEmbed()
     .setColor('#0008ff')
     .setTitle('Generators: ')
-    .setDescription('')
-    .addField('Minecraft', Minecraft_File_Buffer_Split_Lines.length-1)
-    .addField('Origin', Origin_File_Buffer_Split_Lines.length-1)
-    .addField('Crunchyroll ', Crunchyroll_File_Buffer_Split_Lines.length-1)
-    .addField('NordVPN', Nordvpn_File_Buffer_Split_Lines.length-1)
-    .addField('Disney Plus', Disney_File_Buffer_Split_Lines.length-1)
-    .addField('Wish', Wish_File_Buffer_Split_Lines.length-1)
-    .addField('SlingTv', Slingtv_File_Buffer_Split_Lines.length-1)
-    .addField('Hulu', Hulu_File_Buffer_Split_Lines.length-1)
-    .addField('Roblox Groups', Robloxg_File_Buffer_Split_Lines.length-1)
-    .addField('Steam', Steam_File_Buffer_Split_Lines.length-1)
-    .addField('Account Lists', Acc_File_Buffer_Split_Lines.length-1)
+    .setThumbnail("https://cdn.glitch.com/2a0a3e33-f2b8-43ce-9c36-2ffd8bd97c3a%2Fglitchy_brick.jpg?v=1589198677464")
+    .addField('Minecraft', Minecraft_File_Buffer_Split_Lines.length-1, true)
+    .addField('Origin', Origin_File_Buffer_Split_Lines.length-1, true)
+    .addField('Crunchyroll ', Crunchyroll_File_Buffer_Split_Lines.length-1, true)
+    .addField('NordVPN', Nordvpn_File_Buffer_Split_Lines.length-1, true)
+    .addField('Disney Plus', Disney_File_Buffer_Split_Lines.length-1, true)
+    .addField('Hulu', Hulu_File_Buffer_Split_Lines.length-1, true)
+    .addField('Roblox Groups', Robloxg_File_Buffer_Split_Lines.length-1, true)
+    .addField('Steam', Steam_File_Buffer_Split_Lines.length-1, true)
+    .addField('Account Lists', Acc_File_Buffer_Split_Lines.length-1, true)
+    .setFooter(all + " Total Accounts in Stock")
     
     message.say(exampleEmbed)
   }
