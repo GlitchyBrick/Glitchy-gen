@@ -113,89 +113,66 @@ module.exports = class HuluCommand extends Command {
       return;
     }
 
-    const genservers = JSON.parse(fs.readFileSync("./genservers.json"));
+    const genservers = JSON.parse(fs.readFileSync("/app/genservers.json"));
 
+  
     var gr = false;
 
     for (var attributename in genservers) {
+      
+      const defaultrole = genservers[attributename]["settings"]["RoleIDs"]["default"]
+      const premiumrole = genservers[attributename]["settings"]["RoleIDs"]["premium"]
+      const boosterrole = genservers[attributename]["settings"]["RoleIDs"]["boost"]
+      const bypassrole = genservers[attributename]["settings"]["RoleIDs"]["bypass"]
+        
+      const defaultcooldown = genservers[attributename]["settings"]["cooldowns"]["default"]
+      const premiumcooldown = genservers[attributename]["settings"]["cooldowns"]["premium"]
+      const boostercooldown = genservers[attributename]["settings"]["cooldowns"]["boost"]
+      
       if (message.guild.id === genservers[attributename]["ServerID"]) {
-        //procced();
-        //message.say("premium");
-        if (
-          message.member.roles.cache.has(
-            genservers[attributename]["settings"]["RoleIDs"]["default"]
-          )
-        ) {
-          if (gr === false) {
-            procced();
-            gr = true;
-            UsedByRecently.add(message.author.id);
-            console.log("d");
-            setTimeout(() => {
-              UsedByRecently.delete(message.author.id);
-            }, genservers[attributename]["settings"]["cooldowns"]["default"]);
-          }
-        } else if (
-          message.member.roles.cache.has(
-            genservers[attributename]["settings"]["RoleIDs"]["boost"]
-          )
-        ) {
-          if (gr === false) {
-            // boost
-            console.log("b");
-            procced();
-            gr = true;
-            UsedByRecently.add(message.author.id);
-            setTimeout(() => {
-              UsedByRecently.delete(message.author.id);
-            }, genservers[attributename]["settings"]["cooldowns"]["boost"]);
-          }
-        } else if (
-          message.member.roles.cache.has(
-            genservers[attributename]["settings"]["RoleIDs"]["premium"]
-          )
-        ) {
-          if (gr === false) {
-            // premium
-            console.log("p");
-            procced();
-            gr = true;
-            UsedByRecently.add(message.author.id);
-            setTimeout(() => {
-              UsedByRecently.delete(message.author.id);
-            }, genservers[attributename]["settings"]["cooldowns"]["premium"]);
-          }
-        } else if (
-          message.member.roles.cache.has(
-            genservers[attributename]["settings"]["RoleIDs"]["bypass"]
-          )
-        ) {
-          if (gr === false) {
-            // premium
-            console.log("b2");
-            procced();
-            gr = true;
-            UsedByRecently.add(message.author.id);
-            setTimeout(() => {
-              UsedByRecently.delete(message.author.id);
-            }, 100);
-          }
+        
+        //if(typeof defaultrole === "undefined" || typeof premiumrole === "undefined" || typeof boosterrole === "undefined" || typeof bypassrole === "undefined"){ return console.error("Invalid Role IDs")}
+        
+        if(message.member.roles.cache.has(defaultrole)){
+          procced();
+          UsedByRecently.add(message.author.id);
+          setTimeout(() => {
+            UsedByRecently.delete(message.author.id);
+          }, defaultcooldown);
+          return console.log("Default")
         }
-        gr = true;
+        
+        if(message.member.roles.cache.has(premiumrole)){
+          procced();
+          UsedByRecently.add(message.author.id);
+          setTimeout(() => {
+            UsedByRecently.delete(message.author.id);
+          }, premiumcooldown);
+          return console.log("Premium")
+        }
+        
+        if(message.member.roles.cache.has(boosterrole)){
+          procced();
+          UsedByRecently.add(message.author.id);
+          setTimeout(() => {
+            UsedByRecently.delete(message.author.id);
+          }, boostercooldown);
+          return console.log("Booster")
+        }
+        
+        if(message.member.roles.cache.has(bypassrole)){
+          procced();
+          return console.log("Bypass")
+        }
       }
     }
-
     setTimeout(() => {
-      if (gr === false) {
-        // default
-        procced();
-        gr = true;
-        console.log("dd");
-        UsedByRecently.add(message.author.id);
-        setTimeout(() => {
-          UsedByRecently.delete(message.author.id);
-        }, genservers[attributename]["settings"]["cooldowns"]["default"]);
-      }
-    }, 1000);
+      procced();
+      UsedByRecently.add(message.author.id);
+      setTimeout(() => {
+        UsedByRecently.delete(message.author.id);
+      }, 300000);
+      return console.log("Not Server Default")
+    }, 1000)
   }
 };
