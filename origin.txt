@@ -9,7 +9,6 @@ dgaf1993@gmail.com:Mallory212 | DOB = 1993-12-07 | COUNTRY = US
 adam.jurk@hotmail.co.uk:Charlotte10 | DOB = 1990-07-21 | COUNTRY = GB
 andrebcoelho2000@hotmail.com:Dedezinho123 | DOB = 2000-04-17 | COUNTRY = BR | GAMES = [apex/apex/free-to-play]
 cavallaromarco98@gmail.com:Nonnino98 | DOB = 1995-02-02 | COUNTRY = IT | GAMES = [apex/apex/free-to-play, jade-empire/jade-empire/special-edition, a-way-out/a-way-out/trial]
-Khalilbinn@gmail.com:Nbabound1 | DOB = 1996-07-31 | COUNTRY = US
 vancescott@hotmail.com:Suezque77 | DOB = 1977-01-09 | COUNTRY = US | GAMES = [the-sims/the-sims-4/digital-deluxe-edition, the-sims/the-sims-3/addon/the-sims-3-high-end-loft-stuff, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack, need-for-speed/need-for-speed-payback/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-university-life, the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack]
 pixx1998@gmail.com:Kokteilis14 | DOB = 1987-09-04 | COUNTRY = LT | GAMES = [simcity/simcity-2000/special-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, fifa/fifa-14/demo, titanfall/titanfall/trial, battlefield/battlefield-3/standard-edition, apex/apex/free-to-play, syndicate/syndicate-1993/standard-edition]
 gerard.10.diaz@gmail.com:Gerard88 | DOB = 2000-04-18 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
@@ -27,12 +26,10 @@ tfh1conquest1@gmail.com:Mc10463637 | DOB = 1987-06-05 | COUNTRY = US
 rico-1988@live.nl:Charmends8 | DOB = 1988-09-06 | COUNTRY = NL
 elcatire1244@hotmail.com:Lucario88 | DOB = 1995-08-30 | COUNTRY = VE | GAMES = [mass-effect/mass-effect-2/standard-edition, need-for-speed/need-for-speed-world/free-to-play]
 kyledc0255@gmail.com:Lastkings02 | DOB = 1998-09-02 | COUNTRY = PH | GAMES = [apex/apex/free-to-play]
-bolsitodete@outlook.es:Byronrivera1998 | DOB = 1990-06-16 | COUNTRY = CL | GAMES = [need-for-speed/need-for-speed-most-wanted/standard-edition, need-for-speed/need-for-speed-world/free-to-play, kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/trial, battlefield/battlefield-3/standard-edition, battlefield/battlefield-4/trial]
 ovy.zovy@gmail.com:Kebabas123 | DOB = 1999-02-20 | COUNTRY = LT | GAMES = [the-sims/the-sims-4/standard-edition]
 ericaymikel@hotmail.com:Erika123 | DOB = 1997-07-22 | COUNTRY = ES | GAMES = [the-sims/the-sims-3/standard-edition, the-sims/the-sims-4/standard-edition]
 lukestarr11@gmail.com:Jeffrey8 | DOB = 2002-05-09 | COUNTRY = US
 bo_luis@hotmail.com:Hell1992 | DOB = 1992-02-12 | COUNTRY = CA | GAMES = [apex/apex/free-to-play]
-Blizardy@yahoo.com:Blizi1511 | DOB = 1993-10-30 | COUNTRY = SK | GAMES = [star-wars/star-wars-battlefront-2/deluxe-edition, battlefield/battlefield-1/standard-edition, dragon-age/dragon-age-inquisition/standard-edition, command-and-conquer/command-and-conquer-4/legacy-edition, dragon-age/dragon-age-inquisition/game-of-the-year-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, star-wars/star-wars-battlefront/standard-edition, command-and-conquer/command-and-conquer-generals/standard-edition, command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, mass-effect/mass-effect-3/demo, medal-of-honor/medal-of-honor-warfighter/digital-deluxe-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-3/standard-edition, the-sims/the-sims-3/standard-edition, battlefield/battlefield-1942/free-to-play, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, battlefield/battlefield-hardline/standard-edition, syberia/syberia-2/standard-edition, command-and-conquer/command-and-conquer-3/enhanced-edition, apex/apex/free-to-play, command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/command-and-conquer-renegade/standard-edition, battlefield/battlefield-4/standard-edition, command-and-conquer/originqa-04/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition]
 btelfer@live.com:Sneijder10! | DOB = 1990-09-19 | COUNTRY = US | GAMES = [battlefield/battlefield-1/ultimate-edition, battlefield/battlefield-4/standard-edition]
 mckee1223@me.com:Hurley1223 | DOB = 1992-09-28 | COUNTRY = US
 leonardo_calvert@hotmail.com:Sceolan2 | DOB = 1985-09-26 | COUNTRY = RU | GAMES = [command-and-conquer/command-and-conquer-renegade/standard-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, command-and-conquer/command-and-conquer-generals/standard-edition, command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/command-and-conquer-4/legacy-edition, command-and-conquer/command-and-conquer-3/enhanced-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition, command-and-conquer/originqa-04/standard-edition]
@@ -54,7 +51,6 @@ rok_cosmin@yahoo.com:Paradis12 | DOB = 1998-05-06 | COUNTRY = RO | GAMES = [batt
 minecraftman768@gmail.com:Gaming123 | DOB = 1996-07-06 | COUNTRY = CA
 b_alrabiah@hotmail.com:Bader2004 | DOB = 1993-04-10 | COUNTRY = KW
 timmy2296@gmail.com:Kate2296 | DOB = 1996-04-22 | COUNTRY = US
-petiepop18@gmail.com:Ff7cloud13 | DOB = 1991-12-30 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 daiflys@hotmail.com:Gomechan87 | DOB = 1987-10-22 | COUNTRY = ES | GAMES = [battlefield/battlefield-3/standard-edition, mass-effect/mass-effect-2/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition]
 kblanka12@gmail.com:Randomkeret4 | DOB = 1998-01-11 | COUNTRY = GB | GAMES = [the-sims/the-sims-3/standard-edition, the-sims/the-sims-4/demo, nox/nox/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, the-sims/the-sims-4/standard-edition, simcity/simcity/trial, mass-effect/mass-effect-2/standard-edition]
 aynish2014@gmail.com:Dragon123 | DOB = 1998-09-30 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
@@ -83,7 +79,6 @@ maks_imus93@hotmail.com:Tztrw4y8 | DOB = 1993-12-02 | COUNTRY = FI | GAMES = [ne
 hjfp999@gmail.com:Buddypoo64 | DOB = 1999-05-09 | COUNTRY = GB | GAMES = [the-sims/the-sims-4/standard-edition, apex/apex/free-to-play]
 ncspencer1@gmail.com:Sunshine1 | DOB = 1995-04-27 | COUNTRY = US
 tympest06@gmail.com:Babiboi1 | DOB = 1985-03-03 | COUNTRY = US
-saintboss101@gmail.com:Spring101 | DOB = 1996-02-06 | COUNTRY = US
 auduongminh2004@gmail.com:Susu2004 | DOB = 2004-08-28 | COUNTRY = CA | GAMES = [battlefield/battlefield-1/standard-edition, apex/apex/free-to-play]
 bmart51708@gmail.com:Alesana13 | DOB = 1993-01-22 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 jlewis202@icloud.com:Legend20 | DOB = 2000-01-31 | COUNTRY = CA | GAMES = [apex/apex/free-to-play]
@@ -97,8 +92,6 @@ lei1233@hotmail.com:Hasohaso0620 | DOB = 1996-06-18 | COUNTRY = MY | GAMES = [me
 max.shalkov@gmail.com:Vfrctu1122446970 | DOB = 1989-08-29 | COUNTRY = RU | GAMES = [command-and-conquer/command-and-conquer-red-alert-2/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, medal-of-honor/medal-of-honor/standard-edition, apex/apex/free-to-play, syndicate/syndicate-1993/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, titanfall/titanfall/trial, need-for-speed/need-for-speed-hot-pursuit/standard-edition, mirrors-edge/mirrors-edge/standard-edition, dead-space/dead-space/standard-edition--ru-only, dungeon-keeper/dungeon-keeper/standard-edition, simcity/simcity-2000/special-edition, dead-space/dead-space-2/standard-edition, dead-in-bermuda/dead-in-bermuda/standard-edition, alice/alice-madness-returns/standard-edition, battlefield/battlefield-1/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/expansion/command--conquer-red-alert-3-uprising, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack, the-sims/the-sims-3/addon/the-sims-3-high-end-loft-stuff, bejeweled/bejeweled-3/standard-edition, the-sims/the-sims-3/standard-edition, ultima/ultima-viii-pagan/gold-edition, battlefield/battlefield-hardline/demo, battlefield/battlefield-hardline/beta, the-sims/the-sims-2/standard-edition, peggle/peggle/standard-edition, nox/nox/standard-edition, dragon-age/dragon-age-origins/standard-edition, burnout/burnout-paradise/ultimate-edition, populous/populous/standard-edition, battlefield/battlefield-4/trial, theme/theme-hospital/standard-edition, fifa-world/fifa-world/free-to-play, plants-vs-zombies/plants-vs-zombies/standard-edition, dead-space/dead-space-3/standard-edition, battlefield/battlefield-bad-company-2/standard-edition, battlefield/battlefield-3/standard-edition, crysis/crysis-2/maximum-edition, battlefield/battlefield-3/standard-edition, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, the-sims/the-sims-4/standard-edition]
 hazzacow@gmail.com:Bajib0153 | DOB = 1994-02-02 | COUNTRY = GB
 yusenkoedward@gmail.com:Tedward1234 | DOB = 1993-06-30 | COUNTRY = RU | GAMES = [need-for-speed/need-for-speed-payback/standard-edition, battlefield/battlefield-1/deluxe-edition, fifa/fifa-17/demo, apex/apex/free-to-play, battlefield/battlefield-v/trial]
-marshall.mott89@gmail.com:Baseballboy89 | DOB = 1999-06-04 | COUNTRY = US
-yoan.thibon@laposte.net:Maverick6 | DOB = 1989-01-22 | COUNTRY = FR
 Emanuel.tobon18@gmail.com:Emanuel18 | DOB = 1998-08-09 | COUNTRY = US
 kenyon.snr@gmail.com:Matausi1 | DOB = 1996-12-18 | COUNTRY = NZ
 smithsakos@icloud.com:Monica92 | DOB = 1992-07-28 | COUNTRY = US | GAMES = [the-sims/the-sims-4/demo, the-sims/the-sims-4/demo, the-sims/the-sims-4/standard-edition, the-sims/the-sims-4/demo]
@@ -106,11 +99,9 @@ chiclemistico@hotmail.com:Giratina117 | DOB = 1990-11-09 | COUNTRY = MX | GAMES 
 h10vinayak@gmail.com:Achu123456 | DOB = 1980-01-18 | COUNTRY = US | GAMES = [need-for-speed/need-for-speed-world/free-to-play]
 patrick.toni1@googlemail.com:Suigetsu1 | DOB = 1994-02-10 | COUNTRY = DE
 sabuknight1@hotmail.com:Gills198 | DOB = 1990-06-07 | COUNTRY = US
-edgardo_2000_@hotmail.com:Sk8sk8sk8 | DOB = 2000-05-24 | COUNTRY = CL | GAMES = [the-sims/the-sims-4/standard-edition]
 wells.davis@hotmail.com:Qazwsx11 | DOB = 1992-05-03 | COUNTRY = CA
 gm123memo@hotmail.com:Emmanuel123 | DOB = 1994-05-12 | COUNTRY = MX
 tom.sybert@yahoo.com:Waterloo2012 | DOB = 1966-11-02 | COUNTRY = US | GAMES = [fifa-world/fifa-world/free-to-play, fifa/fifa-15/demo, a-way-out/a-way-out/trial, titanfall/titanfall/trial, battlefield/battlefield-1942/free-to-play, need-for-speed/need-for-speed-world/free-to-play, star-wars/star-wars-battlefront-2/beta, the-sims/the-sims-4/standard-edition, battlefield/battlefield-4/trial, apex/apex/free-to-play, syndicate/syndicate-1993/standard-edition]
-robbase246@gmail.com:Subzero1 | DOB = 1986-11-14 | COUNTRY = US
 sb4fun88@gmail.com:Dalchau88 | DOB = 1988-08-10 | COUNTRY = BR | GAMES = [fifa-world/fifa-world/free-to-play, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-4/trial, nox/nox/standard-edition, battlefield/battlefield-1942/free-to-play]
 kevinsaidla@hotmail.com:Kassuu12 | DOB = 1994-11-17 | COUNTRY = GB | GAMES = [battlefield/battlefield-3/standard-edition, apex/apex/free-to-play]
 sydny211@aol.com:Getpower1 | DOB = 1993-02-15 | COUNTRY = US
@@ -129,13 +120,10 @@ ghostwalkingx@yahoo.com:Nova21912 | DOB = 1995-04-21 | COUNTRY = US | GAMES = [a
 wcp500@comcast.net:Shelby500 | DOB = 1951-02-21 | COUNTRY = US | GAMES = [battlefield/battlefield-hardline/demo, apex/apex/free-to-play, battlefield/battlefield-2/standard-edition]
 haydyn01@gmail.com:Turrtle4 | DOB = 1993-07-23 | COUNTRY = AR
 bassinita@gmail.com:Paquete123 | DOB = 1982-03-06 | COUNTRY = AR | GAMES = [dead-space/dead-space/standard-edition, mass-effect/mass-effect-2/standard-edition, peggle/peggle/standard-edition, apex/apex/free-to-play, plants-vs-zombies/plants-vs-zombies/standard-edition]
-matbushline@hotmail.com:Gimli816 | DOB = 1987-08-16 | COUNTRY = US | GAMES = [star-wars/star-wars-the-old-republic/standard-edition, star-wars/star-wars-the-old-republic/standard-edition, battlefield/battlefield-bad-company-2/standard-edition]
 rmichelancmp@hotmail.com:Cabinda7 | DOB = 1990-04-17 | COUNTRY = PT
 melindadelgadomendez@hotmail.com:Leonator1598 | DOB = 1986-11-18 | COUNTRY = ES | GAMES = [the-sims/the-sims-4/demo]
-icyn30@gmail.com:ICYN30blah | DOB = 1989-04-27 | COUNTRY = US | GAMES = [the-sims/the-sims-4/digital-deluxe-edition]
 tonykoda15@gmail.com:Chicken15 | DOB = 1991-06-24 | COUNTRY = US
 wombatwillson@gmail.com:Aa321321 | DOB = 1998-11-26 | COUNTRY = US
-dyonpwhiti@gmail.com:Shannon12 | DOB = 1967-02-07 | COUNTRY = NZ
 abbympage@aol.com:Jump99tt | DOB = 1971-12-10 | COUNTRY = US | GAMES = [the-sims/the-sims-4/standard-edition, the-sims/the-sims-3/standard-edition]
 odstjrx@live.com:Halo20123! | DOB = 1998-12-19 | COUNTRY = US | GAMES = [dead-space/dead-space/standard-edition, titanfall/titanfall/trial, titanfall/titanfall-2/standard-edition, battlefield/battlefield-3/standard-edition, apex/apex/free-to-play, battlefield/battlefield-1942/free-to-play, star-wars/star-wars-battlefront-2/beta, battlefield/battlefield-4/standard-edition]
 bahez8@hotmail.co.uk:Bahez123 | DOB = 1989-11-11 | COUNTRY = GB
@@ -150,7 +138,6 @@ erikdamires6@gmail.com:Plastico10 | DOB = 2000-08-30 | COUNTRY = UY | GAMES = [a
 fankrej@tlen.pl:Loleczek789 | DOB = 1992-07-01 | COUNTRY = PL | GAMES = [fifa-world/fifa-world/free-to-play]
 dannielle.mcclelland@icloud.com:Brutus01 | DOB = 1998-06-25 | COUNTRY = AU
 chino1728@gmail.com:Deeper12 | DOB = 1998-01-02 | COUNTRY = CA | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition, steamworld/steamworld-dig/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, mass-effect/mass-effect-2/standard-edition, star-wars/star-wars-battlefront-2/beta, battlefield/battlefield-3/standard-edition, dead-in-bermuda/dead-in-bermuda/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, dead-space/dead-space/standard-edition, peggle/peggle/standard-edition, battlefield/battlefield-4/standard-edition, apex/apex/free-to-play, battlefield/battlefield-1942/free-to-play, dragon-age/dragon-age-origins/standard-edition]
-sattlerova19@seznam.cz:Katerina2210 | DOB = 1990-10-22 | COUNTRY = CZ
 Midwest_invader1@hotmail.com:Kalamazoo1 | DOB = 1983-10-18 | COUNTRY = US
 lukefc123@live.co.uk:Daisyboo3 | DOB = 1994-08-13 | COUNTRY = GB | GAMES = [battlefield/battlefield-4/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, simcity/simcity/limited-edition, apex/apex/free-to-play, mass-effect/mass-effect-2/standard-edition, titanfall/titanfall/trial, the-sims/the-sims-3/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-1/trial, command-and-conquer/command-and-conquer-red-alert-2/standard-edition]
 filip.makosa121@gmail.com:Agent121 | DOB = 1995-01-01 | COUNTRY = PL
@@ -158,12 +145,9 @@ danielgrcic@gmail.com:Danielg370 | DOB = 1985-06-04 | COUNTRY = HR | GAMES = [ba
 kristjanlindlo@gmail.com:Auto2005 | DOB = 1999-05-05 | COUNTRY = EE | GAMES = [apex/apex/free-to-play]
 javier-rgz@hotmail.com:Erasmo123 | DOB = 1995-04-03 | COUNTRY = MX | GAMES = [apex/apex/free-to-play]
 ayatusi1230@gmail.com:Andrayana1230 | DOB = 2004-12-30 | COUNTRY = CA | GAMES = [the-sims/the-sims-4/trial, the-sims/the-sims-4/demo]
-nismo_silvias13@hotmail.com:Sr20detsole | DOB = 1987-07-09 | COUNTRY = US | GAMES = [need-for-speed/need-for-speed-most-wanted/standard-edition, apex/apex/free-to-play]
 lolxd03333@hotmail.com:Bostero1 | DOB = 1995-02-05 | COUNTRY = AR | GAMES = [fifa/fifa-16/demo]
 alxwett1@gmail.com:Mamiclock1 | DOB = 1994-12-05 | COUNTRY = FR | GAMES = [apex/apex/free-to-play]
 cassidycass99@gmail.com:Ilovecali2@ | DOB = 1999-01-29 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-adamkociuba2005@gmail.com:Papaja26 | DOB = 1992-05-26 | COUNTRY = PL | GAMES = [apex/apex/free-to-play]
-jordmac17@hotmail.com:Ondgyttks5p | DOB = 1994-03-17 | COUNTRY = CA | GAMES = [the-sims/the-sims-4/standard-edition, apex/apex/free-to-play]
 guwienko299@wp.pl:Babej1223 | DOB = 1994-11-19 | COUNTRY = PL | GAMES = [steamworld/steamworld-dig/standard-edition, battlefield/battlefield-4/trial, need-for-speed/need-for-speed-most-wanted/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/trial]
 rapeled@wp.pl:Radek990 | DOB = 1999-08-03 | COUNTRY = PL | GAMES = [fifa/fifa-16/demo]
 guestnumber7@gmail.com:Wanted84! | DOB = 1990-03-10 | COUNTRY = US | GAMES = [anthem/anthem/test-edition, star-wars/star-wars-battlefront-2/premier-subscription, star-wars/star-wars-battlefront-2/standard-edition, battlefield/battlefield-v/premier-subscription, apex/apex/free-to-play, anthem/anthem/test-edition]
@@ -182,7 +166,6 @@ vesatoivanen@hotmail.com:Silakka24 | DOB = 1982-02-01 | COUNTRY = FI | GAMES = [
 oceano.lorenzo@gmail.com:Inter2004 | DOB = 1996-12-24 | COUNTRY = IT | GAMES = [apex/apex/free-to-play]
 Asummerfields@gmail.com:Alex1992 | DOB = 1993-07-16 | COUNTRY = US
 roberto_95_ulloa@hotmail.com:Roberto1995 | DOB = 1995-12-12 | COUNTRY = EC
-colombiankid2005@yahoo.com:Allan21! | DOB = 1991-09-10 | COUNTRY = US
 campeon.1@live.com.mx:Oscarito10 | DOB = 1990-03-07 | COUNTRY = MX | GAMES = [apex/apex/free-to-play, star-wars/star-wars-the-old-republic/free-to-play]
 ajbasht58@live.com:A20bdawk99 | DOB = 1985-11-03 | COUNTRY = US | GAMES = [battlefield/battlefield-4/premium-edition, titanfall/titanfall-2/standard-edition, mass-effect/mass-effect-2/standard-edition, apex/apex/free-to-play]
 thelonecow@hotmail.com:Kendermore6412 | DOB = 1981-02-17 | COUNTRY = US | GAMES = [star-wars/star-wars-the-old-republic/standard-edition, dragon-age/dragon-age-inquisition/standard-edition, mass-effect/mass-effect-3/demo, battlefield/battlefield-3/standard-edition, mass-effect/mass-effect-3/standard-edition, syndicate/syndicate/standard-edition, battlefield/battlefield-bad-company-2/standard-edition]
@@ -192,15 +175,12 @@ joshthefirstoffour@gmail.com:Jssjss22 | DOB = 2000-10-02 | COUNTRY = US
 that2k11beast@yahoo.com:Pooh2006 | DOB = 1995-05-31 | COUNTRY = US
 pbkinggquiznos@yahoo.com:Quiznos352 | DOB = 1980-05-14 | COUNTRY = US
 takeo-tk@hotmail.com:Hattori93 | DOB = 1993-08-31 | COUNTRY = BR | GAMES = [the-sims/the-sims-2/standard-edition]
-reddragonemperor777@yahoo.com:Zhurong123 | DOB = 1992-10-14 | COUNTRY = US | GAMES = [dead-in-bermuda/dead-in-bermuda/standard-edition, the-sims/the-sims-4/demo, the-sims/the-sims-4/digital-deluxe-edition]
 fugatehunts@yahoo.com:Dixie123 | DOB = 1978-12-13 | COUNTRY = US | GAMES = [burnout/burnout-paradise/ultimate-edition, need-for-speed/need-for-speed-rivals/digital-deluxe-edition, titanfall/titanfall/standard-edition, need-for-speed/need-for-speed-hot-pursuit/standard-edition, battlefield/battlefield-bad-company-2/standard-edition]
 colbyharris42@gmail.com:Rachel@21 | DOB = 1996-12-29 | COUNTRY = US | GAMES = [plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial, the-sims/the-sims-4/standard-edition]
 honzavlcek135@gmail.com:Jakjes5002 | DOB = 1990-05-05 | COUNTRY = CZ | GAMES = [crusader/crusader-no-remorse/standard-edition, battlefield/battlefield-3/standard-edition, apex/apex/free-to-play, dragon-age/dragon-age-origins/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/trial, titanfall/titanfall-2/deluxe-edition, titanfall/titanfall/trial]
 joeym145@gmail.com:Shadow9753124680 | DOB = 1986-11-20 | COUNTRY = US | GAMES = [dead-space/dead-space/standard-edition, battlefield/battlefield-4/standard-edition, battlefield/battlefield-3/standard-edition, battlefield/battlefield-1942/free-to-play, crusader/crusader-no-remorse/standard-edition]
-cburges11@yahoo.com:Gemini123! | DOB = 1985-03-15 | COUNTRY = US
 sander-volgers1996@hotmail.com:Playboy1 | DOB = 1996-10-12 | COUNTRY = NL | GAMES = [need-for-speed/need-for-speed-payback/standard-edition]
 bishopzion208@yahoo.com:Speedy1234 | DOB = 1969-10-06 | COUNTRY = US
-kevinhandaya@yahoo.com:handaya88 | DOB = 1988-01-22 | COUNTRY = US
 t.schout@hotmail.de:English2015 | Country = DE | Type = Family Member
 Rycerz530@gmail.com:Rycerz630 | DOB = 1990-09-10 | COUNTRY = PL | GAMES = [jade-empire/jade-empire/special-edition, the-sims/the-sims-4/trial]
 x50545781777@gmail.com:Xx123456 | DOB = 1998-05-03 | COUNTRY = IL
@@ -212,12 +192,10 @@ mainboy9904@gmail.com:Maxwell99 | DOB = 2004-07-21 | COUNTRY = US
 robertsonkyle.323@gmail.com:Snapple420 | DOB = 1986-03-23 | COUNTRY = US
 kovacs991210@gmail.com:Nincsjelsz0 | DOB = 1990-12-10 | COUNTRY = HU | GAMES = [medal-of-honor/medal-of-honor-pacific-assault/standard-edition, kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/trial]
 johnjoven@live.com:Gibsoncasino73 | DOB = 1992-07-27 | COUNTRY = CA | GAMES = [need-for-speed/need-for-speed-most-wanted/standard-edition, apex/apex/free-to-play, mass-effect/mass-effect-2/standard-edition, need-for-speed/need-for-speed/deluxe-edition, battlefield/battlefield-3/standard-edition, star-wars/star-wars-battlefront/ultimate-edition, star-wars/star-wars-jedi-fallen-order/standard-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-4/digital-deluxe-edition, madden/madden-19/standard-edition, battlefield/battlefield-1/standard-edition, star-wars/star-wars-battlefront-2/standard-edition, the-sims/the-sims-4/digital-deluxe-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, battlefield/battlefield-hardline/demo, need-for-speed/need-for-speed-most-wanted/standard-edition, titanfall/titanfall-2/standard-edition, titanfall/titanfall/standard-edition]
-delecia_evans79@hotmail.com:deonna28 | DOB = 1990-01-01 | COUNTRY = PT
 ozone9919@gmail.com:Ozannazo9919 | DOB = 1990-04-15 | COUNTRY = TR | GAMES = [the-sims/the-sims-3/standard-edition, mirrors-edge/mirrors-edge/standard-edition, mercenaries/mercenaries-world-in-flames/standard-edition, battlefield/battlefield-1942/free-to-play, apex/apex/free-to-play, battlefield/battlefield-2/standard-edition]
 samv53@hotmail.com:Calico22 | DOB = 1987-07-20 | COUNTRY = GB | GAMES = [battlefield/battlefield-hardline/demo, star-wars/star-wars-the-old-republic/standard-edition]
 kjellberentsen@gmail.com:Lammetje1! | DOB = 1997-12-20 | COUNTRY = NL
 bjlaplume33@gmail.com:Shorty98 | DOB = 1998-11-07 | COUNTRY = US
-wiesqu@gmail.com:Esmeralda1 | DOB = 1978-11-03 | COUNTRY = CR
 bigbadwolf18@live.co.uk:Dannyboy24 | DOB = 1998-02-24 | COUNTRY = GB | GAMES = [battlefield/battlefield-4/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, the-sims/the-sims-4/standard-edition, apex/apex/free-to-play]
 pororoc8@gmail.com:Pakuka123 | DOB = 1999-10-05 | COUNTRY = PH | GAMES = [battlefield/battlefield-1/standard-edition, apex/apex/free-to-play]
 kevingodard6@icloud.com:Kevin3006 | DOB = 1990-06-15 | COUNTRY = FR | GAMES = [apex/apex/free-to-play, the-sims/the-sims-4/standard-edition, star-wars/star-wars-battlefront-2/standard-edition, fifa/fifa-18/demo, the-sims/the-sims-4/standard-edition, battlefield/battlefield-v/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial]
@@ -236,12 +214,10 @@ fatix1@msn.com:Monringo44 | DOB = 1978-08-11 | COUNTRY = FR
 rockincolton@gmail.com:Kangaroo4561 | DOB = 1970-10-05 | COUNTRY = US | GAMES = [battlefield/battlefield-4/premium-edition, medal-of-honor/medal-of-honor-warfighter/limited-edition, battlefield/battlefield-bad-company-2/standard-edition, medal-of-honor/medal-of-honor-airborne/standard-edition, mass-effect/mass-effect-3/demo, the-sims/the-sims-3/expansion/the-sims-3-pets, dead-space/dead-space-3/standard-edition, kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/standard-edition, crysis/crysis-2/standard-edition, battlefield/battlefield-3/standard-edition, crysis/crysis-3/digital-deluxe-edition, battlefield/battlefield-4/standard-edition, battlefield/battlefield-1942/free-to-play, star-wars/star-wars-the-old-republic/digital-deluxe-edition, the-sims/the-sims-3/standard-edition, mass-effect/mass-effect-3/standard-edition, simcity/simcity/limited-edition, battlefield/battlefield-hardline/demo]
 christian-hummeluhr@hotmail.com:Mini124598 | DOB = 1990-06-27 | COUNTRY = DK | GAMES = [need-for-speed/need-for-speed/standard-edition, need-for-speed/need-for-speed-rivals/standard-edition, need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-3/standard-edition]
 bradhossa81@gmail.com:Shannon01! | DOB = 1998-12-03 | COUNTRY = US | GAMES = [plants-vs-zombies/plants-vs-zombies-garden-warfare/standard-edition, apex/apex/free-to-play]
-mimidneit17@gmail.com:Fukkyuh305 | DOB = 1994-03-26 | COUNTRY = US
 n.natec@yahoo.com:Usturoimurat1 | DOB = 1996-03-25 | COUNTRY = RO | GAMES = [anthem/anthem/test-edition, anthem/anthem/test-edition, apex/apex/free-to-play, anthem/anthem/standard-edition]
 kevin.ekstam@gmail.com:Nivek123 | DOB = 2002-12-12 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 erwin.fonger@gmail.com:Erwin123 | DOB = 1989-07-31 | COUNTRY = CA | GAMES = [dead-space/dead-space-3/standard-edition, apex/apex/free-to-play, titanfall/titanfall/standard-edition, dead-space/dead-space/standard-edition]
 johncenawizard@gmail.com:Awesome9 | DOB = 1976-03-15 | COUNTRY = US
-evan.n.price@hotmail.com:Surfing18 | DOB = 1977-02-20 | COUNTRY = US
 pedro_10goku@hotmail.com:Pedro7982 | DOB = 1990-03-30 | COUNTRY = BR | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition, mass-effect/mass-effect-2/standard-edition]
 miazga.kw@o2.pl:Reksio123 | DOB = 1990-12-01 | COUNTRY = PL | GAMES = [fifa/fifa-15/standard-edition, fifa/fifa-14/demo, battlefield/battlefield-3/standard-edition, fifa-world/fifa-world/free-to-play, plants-vs-zombies/plants-vs-zombies/standard-edition, need-for-speed/need-for-speed-world/free-to-play]
 stacenatwood@hotmail.com:Iambad98 | DOB = 1997-01-30 | COUNTRY = CA | GAMES = [need-for-speed/need-for-speed/standard-edition]
@@ -249,7 +225,6 @@ trungggnhannn@gmail.com:Trungnhan123 | DOB = 2001-03-06 | COUNTRY = VN | GAMES =
 h.bl@hotmail.com.br:Henrique1997 | DOB = 1997-01-19 | COUNTRY = BR
 danielwilesiscool@gmail.com:Hotdog12 | DOB = 1983-12-24 | COUNTRY = US | GAMES = [need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-1942/free-to-play, battlefield/battlefield-1942/free-to-play, apex/apex/free-to-play, spore/spore/standard-edition, spore/spore-galactic-adventures/expansion/spore-galactic-adventures]
 khaledalfahim13@gmail.com:Stoner63 | DOB = 1989-03-13 | COUNTRY = AE | GAMES = [apex/apex/free-to-play, battlefield/battlefield-1/standard-edition]
-harunyesilirmak@gmail.com:C1f26c85 | DOB = 1993-02-18 | COUNTRY = TR | GAMES = [apex/apex/free-to-play]
 Bdipietro02488@gmail.com:Yankee$88 | DOB = 1979-02-22 | COUNTRY = US
 tcortes@gmail.com:Computer1 | DOB = 1974-02-13 | COUNTRY = US
 morganrock1995@gmail.com:Crazy1nlove | DOB = 1995-01-10 | COUNTRY = US | GAMES = [the-sims/the-sims-4/demo, the-sims/the-sims-4/limited-edition, simcity/simcity/standard-edition]
@@ -264,20 +239,17 @@ carter_julian@hotmail.com:Ismetagera1 | DOB = 1990-12-11 | COUNTRY = US | GAMES 
 huizenganicholas@ymail.com:Moocow34! | DOB = 1995-11-12 | COUNTRY = US
 mxpzap@gmail.com:Bj031199 | Country = FR | Type = Family Member
 manchester4428@hotmail.com:Dewott1337 | DOB = 1988-02-04 | COUNTRY = SE | GAMES = [dragon-age/dragon-age-ii/standard-edition]
-breendenrock@live.com:Summerside123 | DOB = 1980-09-07 | COUNTRY = CA
 lozanom936@gmail.com:Lozano17 | DOB = 1994-01-06 | COUNTRY = US
 ethan.gougelmann@gmail.com:Ethang12 | DOB = 1975-08-30 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 davizono.ferrari@gmail.com:Davisit0; | DOB = 1995-04-27 | COUNTRY = US
 lotusgtv@gmail.com:Lfss2300 | DOB = 1970-04-07 | COUNTRY = SE | GAMES = [battlefield/battlefield-4/trial]
 stuntskater@live.de:Russaki2 | DOB = 1973-06-12 | COUNTRY = DE | GAMES = [battlefield/battlefield-v/deluxe-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-1942/free-to-play, battlefield/battlefield-4/trial, mass-effect/mass-effect-andromeda/standard-edition, battlefield/battlefield-3/expansion/battlefield-3-limited-edition, battlefield/battlefield-bad-company-2/standard-edition, apex/apex/free-to-play]
-sted_3465@yahoo.com:Austin123 | DOB = 2000-07-22 | COUNTRY = US | GAMES = [the-sims/the-sims-4/trial, dungeon-keeper/dungeon-keeper/standard-edition, the-sims/the-sims-4/demo, plants-vs-zombies/plants-vs-zombies/standard-edition, apex/apex/free-to-play]
 febedsel@gmail.com:Naruto123 | DOB = 1997-02-19 | COUNTRY = PH
 alvins205@gmail.com:HebertO69 | DOB = 1995-08-02 | COUNTRY = US
 n.pepolim@gmail.com:Pepe123456789 | DOB = 1993-01-01 | COUNTRY = PT | GAMES = [apex/apex/free-to-play, syberia/syberia-2/standard-edition, mass-effect/mass-effect-2/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial]
 sheastambaugh@yahoo.com:Pamela13! | DOB = 1995-08-09 | COUNTRY = US
 thomjwil@gmail.com:Mnlkpo9009 | DOB = 1996-05-29 | COUNTRY = US | GAMES = [apex/apex/free-to-play, battlefield/battlefield-v/trial]
 yuvalbiton13@gmail.com:Yuval2004 | DOB = 1997-03-17 | COUNTRY = IL | GAMES = [titanfall/titanfall/trial, fifa/fifa-16/demo, star-wars/star-wars-battlefront/trial, mass-effect/mass-effect-2/standard-edition, battlefield/battlefield-4/trial, dungeon-keeper/dungeon-keeper/standard-edition, apex/apex/free-to-play, titanfall/titanfall-2/trial, mass-effect/mass-effect-3/demo, battlefield/battlefield-1/trial, simcity/simcity/trial, fifa/fifa-17/demo, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial]
-julus.quem@gmail.com:Aromiset7 | DOB = 1996-04-06 | COUNTRY = FR | GAMES = [the-sims/the-sims-4/standard-edition, the-sims/the-sims-3/standard-edition, titanfall/titanfall-2/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-supernatural, mass-effect/mass-effect-2/standard-edition, star-wars/star-wars-jedi-fallen-order/standard-edition, the-sims/the-sims-3/standard-edition, peggle/peggle/standard-edition, apex/apex/free-to-play, the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack, the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-ambitions]
 rafek_m@wp.pl:Malec5410382 | DOB = 1925-01-06 | COUNTRY = PL
 representacionesdelpilar@hotmail.com:Douglas03 | DOB = 1981-12-03 | COUNTRY = BO | GAMES = [apex/apex/free-to-play, battlefield/battlefield-4/standard-edition, battlefield/battlefield-1/trial]
 Begemann.thorben@gmail.com:Ki4jetoo | DOB = 1995-01-31 | COUNTRY = DE | GAMES = [nox/nox/standard-edition, dead-in-bermuda/dead-in-bermuda/standard-edition, steamworld/steamworld-dig/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, dungeon-keeper/dungeon-keeper/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-4/trial, syberia/syberia-2/standard-edition, titanfall/titanfall/trial, dead-space/dead-space/standard-edition, mass-effect/mass-effect-2/standard-edition, the-sims/the-sims-4/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition]
@@ -304,7 +276,6 @@ id_sasha@mail.ru:Free1325 | DOB = 1980-01-01 | COUNTRY = RU | GAMES = [apex/apex
 nikocena@wp.pl:NNNikson1 | DOB = 1999-08-20 | COUNTRY = PL | GAMES = [fifa/fifa-14/demo, fifa/fifa-16/demo, fifa/fifa-15/demo]
 aless.02996@hotmail.com:Maya2014 | DOB = 1996-02-24 | COUNTRY = PE | GAMES = [the-sims/the-sims-4/trial]
 dillonjchurch@gmail.com:Dillon1994 | DOB = 1987-06-03 | COUNTRY = US
-kmgbelen@yahoo.com:Likeaboss1 | DOB = 1973-04-06 | COUNTRY = CA
 zkangas@live.com:Callofduty1 | DOB = 1999-01-17 | COUNTRY = US | GAMES = [battlefield/battlefield-v/standard-edition, the-sims/the-sims-4/digital-deluxe-edition]
 jotuckki@gmail.com:Tristan44 | DOB = 1972-04-10 | COUNTRY = US
 codywright2221@yahoo.com:Bear1234 | DOB = 1996-01-12 | COUNTRY = US
@@ -312,7 +283,6 @@ jasonallentoth@gmail.com:Pantarian2469 | DOB = 1981-10-04 | COUNTRY = US | GAMES
 deanshochet0@gmail.com:Dean84652465 | DOB = 1977-01-20 | COUNTRY = IL | GAMES = [star-wars/star-wars-battlefront/standard-edition]
 late4tea7@gmail.com:Penguinz7 | DOB = 2000-06-14 | COUNTRY = AU | GAMES = [the-sims/the-sims-4/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, mass-effect/mass-effect-2/standard-edition, apex/apex/free-to-play]
 dylansalk@gmail.com:Lacrosse3$ | DOB = 2003-04-21 | COUNTRY = US
-thecaveman50@gmail.com:Connahbomb1 | DOB = 1997-09-21 | COUNTRY = ES
 xtggames123@gmail.com:Leo123leo | DOB = 1990-07-05 | COUNTRY = BR
 okitoi1997@gmail.com:Powerball2 | DOB = 1991-05-08 | COUNTRY = HU | GAMES = [fifa/fifa-15/demo, fifa-world/fifa-world/free-to-play, the-sims/the-sims-4/trial, battlefield/battlefield-4/trial, battlefield/battlefield-3/standard-edition, fifa/fifa-16/demo, dragon-age/dragon-age-inquisition/play-for-free, titanfall/titanfall/trial, plants-vs-zombies/plants-vs-zombies/standard-edition, unravel/unravel/trial, need-for-speed/need-for-speed-most-wanted/standard-edition, fifa/fifa-17/demo]
 nisaalam19@yahoo.com:Londonuk123 | DOB = 2004-06-08 | COUNTRY = GB | GAMES = [trine/trine/standard-edition, the-sims/the-sims-4/digital-deluxe-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial, oxenfree/oxenfree/standard-edition, simcity/simcity/complete-edition, the-sims/the-sims-4/demo, beholder/beholder/standard-edition, torchlight/torchlight-ii/standard-edition]
@@ -331,7 +301,6 @@ isaiahcouch22@hotmail.com:Dragons22! | DOB = 1998-10-24 | COUNTRY = US
 watkinscam3@gmail.com:Awesome56 | DOB = 1995-04-17 | COUNTRY = US
 mhamadhoumani12@gmail.com:Houhou1252 | DOB = 1992-09-17 | COUNTRY = LB | GAMES = [apex/apex/free-to-play]
 bobnatiousd@gmail.com:Xyn4545zz104a | DOB = 1983-05-01 | COUNTRY = US
-carollineraidan@hotmail.com:Keythie2565 | DOB = 1993-08-07 | COUNTRY = BR | GAMES = [the-sims/the-sims-4/demo]
 christeruel1@hotmail.com:Mexico413 | DOB = 1996-04-13 | COUNTRY = US
 igiacchettinonsonogay@gmail.com:Giacomo16 | DOB = 1970-08-08 | COUNTRY = IT | GAMES = [fifa/fifa-20/demo, fifa/fifa-19/demo]
 killroy8520@gmail.com:Hellbringer9 | DOB = 1996-08-10 | COUNTRY = US | GAMES = [apex/apex/free-to-play, battlefield/battlefield-1/deluxe-edition]
@@ -345,7 +314,6 @@ geoffrey60800@hotmail.fr:Aqwxsz60 | DOB = 1980-11-27 | COUNTRY = FR | GAMES = [b
 erikaisnotveryamazing@gmail.com:Erika2004 | DOB = 1990-07-03 | COUNTRY = US | GAMES = [the-sims/the-sims-4/standard-edition]
 jules.guillot@gmail.com:Eugene79 | DOB = 1978-08-26 | COUNTRY = FR | GAMES = [apex/apex/free-to-play]
 navid.a@live.se:Lasermus1 | DOB = 1993-05-29 | COUNTRY = SE | GAMES = [battlefield/battlefield-3/standard-edition, burnout/burnout-paradise/ultimate-edition, crysis/crysis-2/maximum-edition, dead-space/dead-space-3/standard-edition, apex/apex/free-to-play, the-sims/the-sims-3/standard-edition, battlefield/battlefield-1942/free-to-play, dead-space/dead-space/standard-edition, mirrors-edge/mirrors-edge/standard-edition]
-sergio11191@gmail.com:Andres01 | DOB = 1992-08-23 | COUNTRY = ES
 Dylansalegio69@gmail.Com:Dylan2004 | DOB = 1984-01-29 | COUNTRY = US
 hokieboys@comcast.net:Frente03 | DOB = 1990-01-01 | COUNTRY = PT | GAMES = [apex/apex/free-to-play]
 chiyoki@gmx.de:Chaos310789 | DOB = 1989-07-31 | COUNTRY = DE | GAMES = [anthem/anthem/standard-edition, anthem/anthem/test-edition, anthem/anthem/test-edition]
@@ -356,7 +324,6 @@ simongroendahl@hotmail.com:Balder12 | DOB = 1990-10-17 | COUNTRY = DK | GAMES = 
 matthewruivivar@gmail.com:Vukozisraw1 | DOB = 1990-04-20 | COUNTRY = US
 abdullahkhan.111158@gmail.com:Zarnab12 | DOB = 2003-04-05 | COUNTRY = PK | GAMES = [apex/apex/free-to-play]
 dgranville68@gmail.com:Knights88 | DOB = 1998-07-09 | COUNTRY = US
-austin_blackmon@yahoo.com:Miamiheat6 | DOB = 1992-08-12 | COUNTRY = US
 aixanavarro03@gmail.com:Purple22 | DOB = 2003-12-26 | COUNTRY = US
 sfgame984@centrum.sk:Matus12lol | DOB = 1990-06-20 | COUNTRY = SK
 sacheung08@gmail.com:Foca*777 | DOB = 1990-11-15 | COUNTRY = PA
@@ -368,7 +335,6 @@ tomcast333@gmail.com:Dozemon325 | DOB = 1999-10-26 | COUNTRY = RU | GAMES = [ape
 marcinedek10@gmail.com:Balik123 | DOB = 1994-03-02 | COUNTRY = PL | GAMES = [fifa-world/fifa-world/free-to-play]
 olek.woj@onet.eu:Olekbolek1 | DOB = 1994-11-12 | COUNTRY = PL | GAMES = [the-sims/the-sims-4/standard-edition, apex/apex/free-to-play, battlefield/battlefield-1/standard-edition]
 mjazz6591@gmail.com:Awsome14 | DOB = 1975-01-01 | COUNTRY = US
-grzyb0000252@gmail.com:Waraodkonta123 | DOB = 1990-10-27 | COUNTRY = PL | GAMES = [pyre/pyre/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, apex/apex/free-to-play, nox/nox/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-1/standard-edition, the-sims/the-sims-4/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, battlefield/battlefield-1/trial, battlefield/battlefield-hardline/standard-edition, titanfall/titanfall-2/trial, jade-empire/jade-empire/special-edition, star-wars/star-wars-battlefront-2/beta, dungeon-keeper/dungeon-keeper/standard-edition, battlefield/battlefield-4/standard-edition]
 igor_sergeevichc@mail.ru:Sporeapr1 | DOB = 1999-01-20 | COUNTRY = RU | GAMES = [syberia/syberia-2/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, peggle/peggle/standard-edition, steamworld/steamworld-dig/standard-edition, dead-space/dead-space/standard-edition, dead-in-bermuda/dead-in-bermuda/standard-edition, mass-effect/mass-effect-2/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition]
 potterycat@gmail.com:Skittle4854 | DOB = 1975-06-08 | COUNTRY = US | GAMES = [the-sims/the-sims-4/digital-deluxe-edition, simcity/simcity/standard-edition, the-sims/the-sims-4/demo, the-sims/the-sims-3/standard-edition]
 Lutzr@gmx.de:Nicole71 | DOB = 2001-02-01 | COUNTRY = DE | GAMES = [apex/apex/free-to-play]
@@ -378,16 +344,13 @@ erik.luterancik@gmail.com:Samsung11 | Type = Spotify Premium | Country = SK
 officialsergioo@gmail.com:Sebastian14 | DOB = 1998-03-21 | COUNTRY = US
 goldengust@live.com:Bobaloo0 | DOB = 1988-03-04 | COUNTRY = US | GAMES = [peggle/peggle/standard-edition, nox/nox/standard-edition, steamworld/steamworld-dig/standard-edition, apex/apex/free-to-play]
 samsa97@hotmail.fi:Tessu112 | DOB = 1997-12-27 | COUNTRY = FI
-hamzasalama11@yahoo.com:Breaksomerules25 | DOB = 2001-02-17 | COUNTRY = EG | GAMES = [titanfall/titanfall/trial, simcity/simcity/trial, bejeweled/bejeweled-3/standard-edition, fifa-world/fifa-world/free-to-play, mass-effect/mass-effect-3/demo, the-sims/the-sims-4/demo, kingdoms-of-amalur-reckoning/kingdoms-of-amalur-reckoning/trial]
 ttocs101@gmail.com:Sc00byd00! | DOB = 1996-07-21 | COUNTRY = US
 esg_joe@mail.com:Nicoaustin1 | DOB = 2003-05-20 | COUNTRY = US | GAMES = [apex/apex/free-to-play, star-wars/star-wars-battlefront-2/beta, star-wars/star-wars-battlefront-2/standard-edition]
 ebb0826@icloud.com:chicken7 | DOB = 1995-08-26 | COUNTRY = US
 rey.leauge@gmail.com:Gurrenlagann20 | DOB = 1971-07-19 | COUNTRY = CA | GAMES = [command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/deluxe-edition, batman/batman-arkham-asylum/game-of-the-year-edition, dungeon-keeper/dungeon-keeper-2/standard-edition, burnout/burnout-paradise-remastered/standard-edition, lego/lego-star-wars-the-complete-saga/standard-edition, battlefield/battlefield-3/standard-edition, frostpunk/frostpunk/standard-edition, overcooked/overcooked/gourmet-edition, peggle/peggle/standard-edition, titanfall/titanfall-2/standard-edition, ultimate-chicken-horse/ultimate-chicken-horse/standard-edition, star-wars/star-wars-jedi-knight-jedi-academy/standard-edition, command-and-conquer/command-and-conquer-3/enhanced-edition, hearts-of-iron/hearts-of-iron-iii/standard-edition, anthem/anthem/test-edition, medal-of-honor/medal-of-honor-allied-assault/digital-deluxe-edition, mirrors-edge/mirrors-edge-catalyst/standard-edition, star-wars/star-wars-republic-commando/standard-edition, command-and-conquer/command-and-conquer-generals/standard-edition, command-and-conquer/originqa-04/standard-edition, dead-space/dead-space/standard-edition, command-and-conquer/command-and-conquer-renegade/standard-edition, battlefield/battlefield-4/premium-edition, the-escapists/the-escapists-2/standard-edition, dead-space/dead-space-2/standard-edition, slay-the-spire/slay-the-spire/standard-edition, command-and-conquer/command-and-conquer-4/legacy-edition, star-wars/star-wars-x-wing-vs-tie-fighter/standard-edition, star-wars/star-wars-battlefront-2/standard-edition, dead-cells/dead-cells/standard-edition, tyranny/tyranny/standard-edition, superhot/superhot/standard-edition, star-wars/star-wars-knights-of-the-old-republic-ii-the-sith-lords/standard-edition, command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, opus-magnum/opus-magnum/standard-edition, prison-architect/prison-architect/standard-edition, battlefield/battlefield-1/standard-edition, mirrors-edge/mirrors-edge/standard-edition, star-wars/star-wars-rogue-squadron-3d/standard-edition, dungeon-keeper/dungeon-keeper/standard-edition, fifa/fifa-19/standard-edition, for-the-king/for-the-king/standard-edition, hand-of-fate/hand-of-fate/standard-edition, apex/apex/free-to-play, battlefield/battlefield-v/standard-edition, star-wars/star-wars-knights-of-the-old-republic/standard-edition, sudden-strike/sudden-strike-4/standard-edition, spore/spore/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition, simcity/simcity-2000/special-edition, they-are-billions/they-are-billions/standard-edition, star-wars/star-wars-x-wing-alliance/standard-edition, pyre/pyre/standard-edition, anthem/anthem/standard-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, moonlighter/moonlighter/standard-edition]
 mvvinixi@gmail.com:Vini123456 | DOB = 1992-04-20 | COUNTRY = BR | GAMES = [titanfall/titanfall/trial, battlefield/battlefield-3/standard-edition]
 nicki@opsneum.dk:Hejhej123123 | DOB = 1993-02-18 | COUNTRY = DK | GAMES = [apex/apex/free-to-play, battlefield/battlefield-3/standard-edition]
-sir.zuzu@seznam.cz:Zuzuras1 | DOB = 1991-08-11 | COUNTRY = CZ | GAMES = [star-wars/star-wars-the-old-republic/free-to-play, medal-of-honor/medal-of-honor-warfighter/standard-edition]
 gizmo7775@gmail.com:Catdog33 | DOB = 1978-08-20 | COUNTRY = US | GAMES = [star-wars/star-wars-the-old-republic/standard-edition, star-wars/star-wars-the-old-republic/standard-edition]
-kcheto@gmail.com:Sergio123 | DOB = 1988-02-11 | COUNTRY = CL | GAMES = [need-for-speed/need-for-speed-world/free-to-play]
 gangster.max@gmx.de:Werder22 | DOB = 1981-02-08 | COUNTRY = DE
 jallstar42@gmail.com:Alvarado8 | DOB = 1991-03-04 | COUNTRY = US
 lnd0osh@msn.com:Linda3252 | DOB = 1999-10-20 | COUNTRY = SA
@@ -406,17 +369,13 @@ sangnguyen222376@gmail.com:Pokemon3 | DOB = 1999-01-10 | COUNTRY = US | GAMES = 
 jebjr001@gmail.com:Motherm25 | DOB = 1996-11-09 | COUNTRY = US
 jakobiuppsala@gmail.com:F1sal1sa | DOB = 2000-01-11 | COUNTRY = SE | GAMES = [the-sims/the-sims-4/standard-edition, spore/spore/standard-edition, simcity/simcity-2000/special-edition, apex/apex/free-to-play, battlefield/battlefield-1/standard-edition]
 elsanchezalvaro@gmail.com:Caramelorico1 | DOB = 1995-03-01 | COUNTRY = ES | GAMES = [syberia/syberia-2/standard-edition]
-pikus173@gmail.com:Fabiki114 | DOB = 1994-07-12 | COUNTRY = PL | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition, apex/apex/free-to-play, mass-effect/mass-effect-2/standard-edition, battlefield/battlefield-hardline/demo, need-for-speed/need-for-speed-most-wanted/standard-edition, need-for-speed/need-for-speed-world/free-to-play, peggle/peggle/standard-edition, fifa-world/fifa-world/free-to-play, syberia/syberia-2/standard-edition, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, bejeweled/bejeweled-3/standard-edition, dragon-age/dragon-age-origins/standard-edition, dead-space/dead-space/standard-edition, crusader/crusader-no-remorse/standard-edition, dungeon-keeper/dungeon-keeper/standard-edition, battlefield/battlefield-3/standard-edition, zuma/zumas-revenge/standard-edition, simcity/simcity-2000/special-edition]
 danielgraciaaguilar@gmail.com:Familia108 | DOB = 1998-09-22 | COUNTRY = ES | GAMES = [star-wars/star-wars-battlefront-2/standard-edition]
 jlisaza99@gmail.com:Joseluis99 | DOB = 1990-09-08 | COUNTRY = US
-justformspoints@live.ca:Eminemfan181 | DOB = 1990-05-18 | COUNTRY = CA
 lbanister@mindspring.com:Meatballs12 | DOB = 2001-08-18 | COUNTRY = US | GAMES = [star-wars/star-wars-jedi-fallen-order/standard-edition]
 faydhaddad131@yahoo.com:Asel2000 | DOB = 2003-01-12 | COUNTRY = US | GAMES = [a-way-out/a-way-out/trial, apex/apex/free-to-play]
 sony.policka@seznam.cz:Zdenda | DOB = 1978-01-17 | COUNTRY = CZ
 rileycammish00@gmail.com:Codhero11 | DOB = 1994-04-21 | COUNTRY = GB
-prince_nifrit@yahoo.com:Kfcnjxrf77 | DOB = 1986-04-29 | COUNTRY = IL | GAMES = [battlefield/battlefield-4/trial]
 fb858261@gmail.com:Penelope13 | DOB = 1994-05-19 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-awombat117@gmail.com:slimshady2012 | DOB = 1991-07-15 | COUNTRY = US | GAMES = [apex/apex/free-to-play, battlefield/battlefield-1/trial, battlefield/battlefield-4/standard-edition]
 christian.malleck@gmail.com:Doughnut87 | DOB = 1987-02-07 | COUNTRY = CA | GAMES = [alice/alice-madness-returns/standard-edition, star-wars/star-wars-the-old-republic/standard-edition]
 reaper.darkhour@hotmail.com:Whatthefuck1 | DOB = 1995-12-04 | COUNTRY = MU | GAMES = [apex/apex/free-to-play, need-for-speed/need-for-speed-most-wanted/standard-edition]
 wren0331@gmail.com:Caelin0697 | DOB = 1975-07-06 | COUNTRY = US
@@ -427,12 +386,9 @@ kdjefferies2015@yahoo.com:Dragon08 | DOB = 1990-08-14 | COUNTRY = US | GAMES = [
 dguerin@live.fr:Daphne2003 | DOB = 1996-08-02 | COUNTRY = FR | GAMES = [the-sims/the-sims-4/trial, the-sims/the-sims-4/demo]
 patryk.ochocinski@wp.pl:Patelnia12 | DOB = 1993-03-11 | COUNTRY = MV | GAMES = [need-for-speed/need-for-speed-most-wanted/standard-edition]
 sandrosoutoebirdll@gmail.com:Anderson123 | DOB = 1992-03-02 | COUNTRY = GB | GAMES = [fifa/fifa-15/demo, fifa-world/fifa-world/free-to-play, apex/apex/free-to-play, need-for-speed/need-for-speed-world/free-to-play, fifa/fifa-17/standard-edition, medal-of-honor/medal-of-honor/standard-edition, a-way-out/a-way-out/trial, fifa/fifa-15/standard-edition]
-dagdakary@gmail.com:Neves05011990 | DOB = 1990-01-05 | COUNTRY = PT | GAMES = [mass-effect/mass-effect-2/standard-edition]
 vinnie.oeloff@gmail.com:Allesis1 | DOB = 1983-10-04 | COUNTRY = NL
 geminiquach@gmail.com:Tieutu93 | DOB = 1993-06-15 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-s.hernandez.7299@gmail.com:Sergio1989 | DOB = 1989-07-01 | COUNTRY = US
 pogunniran5@gmail.com:Paul2002 | DOB = 1970-10-26 | COUNTRY = US
-mitchellstrang@hotmail.com:Grapeboy22 | DOB = 1988-01-01 | COUNTRY = AU
 finnlovegrove@yahoo.co.uk:Chocolate0012 | DOB = 1979-05-26 | COUNTRY = KY | GAMES = [need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-3/standard-edition, battlefield/battlefield-4/standard-edition, battlefield/battlefield-bad-company-2/standard-edition]
 luis_esteban_suarez@hotmail.com:Ls405106 | DOB = 1993-12-06 | COUNTRY = AR | GAMES = [plants-vs-zombies/plants-vs-zombies-garden-warfare/trial, battlefield/battlefield-4/trial, battlefield/battlefield-3/standard-edition, need-for-speed/need-for-speed-world/free-to-play, titanfall/titanfall/trial, dead-space/dead-space/standard-edition]
 thefunzone30@gmail.com:Adrian99 | DOB = 1992-02-28 | COUNTRY = DE
@@ -443,7 +399,6 @@ lax_singh@hotmail.co.uk:Buster123 | Type = Spotify Premium | Country = GB
 q.banihani2011@gmail.com:Qassem123 | DOB = 1895-04-05 | COUNTRY = JO | GAMES = [fifa/fifa-16/demo]
 coleta_25@hotmail.com:Coleteitor29 | DOB = 1982-06-05 | COUNTRY = ES | GAMES = [peggle/peggle/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, battlefield/battlefield-hardline/standard-edition, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-4/trial, fifa-world/fifa-world/free-to-play, jade-empire/jade-empire/special-edition, titanfall/titanfall/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/standard-edition]
 lewandowski2@vp.pl:Widzew1910 | DOB = 1994-11-01 | COUNTRY = PL | GAMES = [fifa/fifa-18/demo, mass-effect/mass-effect-2/standard-edition, the-sims/the-sims-2/standard-edition, peggle/peggle/standard-edition, mirrors-edge/mirrors-edge/standard-edition, dragon-age/dragon-age-origins/standard-edition, battlefield/battlefield-3/standard-edition, syberia/syberia-2/standard-edition]
-r-zar2000@wp.pl:Karolina1 | DOB = 1995-01-01 | COUNTRY = PL | GAMES = [fifa-world/fifa-world/free-to-play, need-for-speed/need-for-speed-world/free-to-play]
 gonzafelker63@gmail.com:Gettherefast11 | DOB = 1996-06-29 | COUNTRY = AR | GAMES = [need-for-speed/need-for-speed-world/free-to-play, dead-in-bermuda/dead-in-bermuda/standard-edition, dead-space/dead-space/standard-edition]
 brodyreynolds13@yahoo.com:Icebreaker13! | DOB = 1987-08-25 | COUNTRY = US
 cbrice476@yahoo.com:Joeyvotto19 | DOB = 1994-02-21 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
@@ -457,21 +412,16 @@ drsanro@gmail.com:Billiejoe1 | DOB = 1981-01-15 | COUNTRY = MX
 nermin.hodzic1507@gmail.com:Motherfucker26 | DOB = 1992-07-15 | COUNTRY = AT | GAMES = [battlefield/battlefield-3/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, a-way-out/a-way-out/standard-edition, apex/apex/free-to-play]
 parkeskai2005@gmail.com:Eagle2005 | DOB = 1918-07-31 | COUNTRY = US | GAMES = [the-sims/the-sims-4/trial, the-sims/the-sims-4/demo]
 ottesen23@hotmail.com:Moeman9977 | DOB = 1984-03-23 | COUNTRY = NO | GAMES = [nox/nox/standard-edition, star-wars/star-wars-the-old-republic/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, syndicate/syndicate-1993/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, apex/apex/free-to-play, star-wars/star-wars-the-old-republic/standard-edition, battlefield/battlefield-3/standard-edition]
-gothmog1989@gmail.com:Death194 | DOB = 1989-08-28 | COUNTRY = US
 doylejnd@hotmail.co.uk:Doyle101 | DOB = 1958-03-11 | COUNTRY = GB
 blakerster@gmail.com:Snaker25 | DOB = 1993-01-25 | COUNTRY = ES | GAMES = [the-sims/the-sims-4/standard-edition, dead-space/dead-space/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition]
-johnnyspenzer@gmail.com:Spencer27 | DOB = 1996-10-27 | COUNTRY = US
-Saffone44@gmail.com:Zaqone99 | DOB = 1999-01-24 | COUNTRY = MY | GAMES = [apex/apex/free-to-play]
 kabatdominik@gmail.com:Saske123 | DOB = 1996-11-11 | COUNTRY = US | GAMES = [need-for-speed/need-for-speed-world/free-to-play, fifa-world/fifa-world/free-to-play, apex/apex/free-to-play]
 pyro81054@gmail.com:Coucou22 | DOB = 2001-07-09 | COUNTRY = FR
 jschron23@gmail.com:Bert1404 | DOB = 1991-03-29 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 geediali01@gmail.com:Fallout4 | DOB = 2001-10-03 | COUNTRY = US
-ellisdbanata@hotmail.com:Picture1 | DOB = 1968-10-12 | COUNTRY = GB
 ichiri.dj@hotmail.com:IDADKZL1987a | DOB = 1987-08-08 | COUNTRY = DZ | GAMES = [dragon-age/dragon-age-inquisition/play-for-free, mass-effect/mass-effect-2/standard-edition, battlefield/battlefield-4/standard-edition, jade-empire/jade-empire/special-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, dungeon-keeper/dungeon-keeper/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, amazing-adventures/amazing-adventures-the-caribbean-secret/standard-edition, the-sims/the-sims-2/standard-edition, fifa-world/fifa-world/free-to-play, fifa/fifa-17/demo]
 trevorroedema1@gmail.com:Poynter12 | DOB = 2001-10-06 | COUNTRY = US
 techmert9@gmail.com:Nbalive2007 | DOB = 1994-03-31 | COUNTRY = TR | GAMES = [need-for-speed/need-for-speed-world/free-to-play]
 didindejure@gmail.com:Q1w2e3r4t5 | DOB = 2000-09-09 | COUNTRY = ID | GAMES = [apex/apex/free-to-play]
-IsaiahD1605@gmail.com:Defjam05 | DOB = 1993-05-16 | COUNTRY = US
 iliev.deni@gmail.com:Redyornot1 | DOB = 1989-08-31 | COUNTRY = CH | GAMES = [star-wars/star-wars-battlefront-2/standard-edition, need-for-speed/need-for-speed-payback/standard-edition, battlefield/battlefield-1/standard-edition, mass-effect/mass-effect-andromeda/standard-edition, star-wars/star-wars-battlefront/standard-edition, battlefield/battlefield-hardline/standard-edition, the-sims/the-sims-4/limited-edition]
 ironfist723@yahoo.com:Jasmine1 | DOB = 1982-07-09 | COUNTRY = US
 datchimo11@gmail.com:Dat123456789 | DOB = 1994-03-04 | COUNTRY = VN | GAMES = [apex/apex/free-to-play]
@@ -481,10 +431,8 @@ josephwquijano@icloud.com:Penny12dog | DOB = 1994-06-12 | COUNTRY = US | GAMES =
 jose_gabrielplayer@hotmail.com:Gabriellopez1 | DOB = 1964-05-08 | COUNTRY = ES
 sbklindsay@msn.com:Karjak44 | DOB = 1975-12-29 | COUNTRY = US
 Scrubzeyy@gmail.com:Donovan2424 | DOB = 1995-07-30 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-beltrannn10@gmail.com:Dodgers10 | DOB = 1994-10-10 | COUNTRY = US
 kveasy02@aol.com:Brandon1996 | DOB = 1995-10-02 | COUNTRY = US
 schuppjarod@gmail.com:Woodland12 | DOB = 2001-02-15 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-szuta.benjamin@gmail.com:Szuta1998 | DOB = 1990-07-12 | COUNTRY = DE | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition, battlefield/battlefield-4/standard-edition, simcity/simcity-2000/special-edition, peggle/peggle/standard-edition, titanfall/titanfall/standard-edition, battlefield/battlefield-hardline/demo, tomb-raider/tomb-raider/survival-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, battlefield/battlefield-3/standard-edition, dead-space/dead-space/standard-edition, ultima/ultima-viii-pagan/gold-edition, syberia/syberia-2/standard-edition, the-sims/the-sims-2/standard-edition]
 realkrishas@yahoo.com:Newjack187 | DOB = 1989-09-18 | COUNTRY = US
 deshaunjdavis@gmail.com:Kobe2424 | DOB = 1998-06-06 | COUNTRY = US
 anton.tang@hotmail.com:Light5567 | DOB = 1980-01-01 | COUNTRY = AU | GAMES = [simcity/simcity-2000/special-edition, need-for-speed/need-for-speed-world/free-to-play, fifa/fifa-14/demo, battlefield/battlefield-hardline/demo, battlefield/battlefield-3/expansion/battlefield-3-limited-edition, fifa-world/fifa-world/free-to-play, battlefield/battlefield-1/standard-edition, fifa/fifa-15/demo, apex/apex/free-to-play]
@@ -496,7 +444,6 @@ dre9023@gmail.com:Wellington1! | DOB = 1994-07-29 | COUNTRY = US
 salegossetv@gmail.com:Ag12021996 | DOB = 1996-02-12 | COUNTRY = FR | GAMES = [apex/apex/free-to-play]
 matthewparsloe@msn.com:Wellington21 | DOB = 1972-03-19 | COUNTRY = GB
 abi_jan11@live.com:Usermalak11 | DOB = 1970-12-29 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-jaume7@hotmail.nl:Vaquilla64 | DOB = 1992-08-09 | COUNTRY = NL | GAMES = [battlefield/battlefield-3/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/standard-edition, battlefield/battlefield-4/premium-edition, fifa/fifa-15/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, battlefield/battlefield-1/standard-edition, star-wars/star-wars-battlefront/standard-edition, battlefield/battlefield-1/addon/battlefield-1-incursions, mass-effect/mass-effect-3/standard-edition, need-for-speed/need-for-speed-world/free-to-play]
 notrdyforthis@yahoo.com:Wolfbane90 | DOB = 1990-12-07 | COUNTRY = US | GAMES = [dead-space/dead-space-3/standard-edition]
 dzx6666@gmail.com:Logicos92 | DOB = 1992-07-03 | COUNTRY = PL | GAMES = [dungeon-keeper/dungeon-keeper/standard-edition]
 jgarc033@dadeschools.net:Bluj8761 | DOB = 1980-09-06 | COUNTRY = US
@@ -508,7 +455,6 @@ est971@hotmail.com:Genesis1977 | DOB = 1977-01-09 | COUNTRY = ES | GAMES = [batt
 malcolm@live.se:Eleanor1Rigby | DOB = 1991-06-24 | COUNTRY = SE | GAMES = [battlefield/battlefield-3/expansion/battlefield-3-limited-edition, star-wars/star-wars-the-old-republic/standard-edition]
 idilheper@gmail.com:Muge199628 | DOB = 1992-05-28 | COUNTRY = TR | GAMES = [dragon-age/dragon-age-ii/standard-edition, dragon-age/dragon-age-inquisition/standard-edition]
 punishment155@gmail.com:Mylucky13 | DOB = 1980-11-05 | COUNTRY = US
-jpilrose@me.com:Spring103 | DOB = 1958-03-12 | COUNTRY = US | GAMES = [command-and-conquer/command-and-conquer-4/standard-edition]
 ivan.robert.2004@gmail.com:Trebor01 | DOB = 2000-05-15 | COUNTRY = RO | GAMES = [apex/apex/free-to-play]
 bluedragon43135@gmail.com:Bluedragon55 | DOB = 1994-02-22 | COUNTRY = US | GAMES = [anthem/anthem/test-edition, anthem/anthem/standard-edition, anthem/anthem/test-edition]
 cornejo_2000_pamela@hotmail.com:Pamela10 | DOB = 2000-07-10 | COUNTRY = PE | GAMES = [the-sims/the-sims-3/standard-edition, vampyr/vampyr/standard-edition, the-sims/the-sims-4/digital-deluxe-edition]
@@ -539,7 +485,6 @@ eleogardy@gmail.com:Euclide1 | DOB = 1989-08-09 | COUNTRY = US | GAMES = [apex/a
 joelmcdougall242@hotmail.com:Biomgamecenter1 | DOB = 1998-03-08 | COUNTRY = AU
 steverojas7@gmail.com:Clancy12 | DOB = 1992-08-21 | COUNTRY = US
 artemromanov1@gmail.com:Artem23122003 | DOB = 1979-12-23 | COUNTRY = TR | GAMES = [medal-of-honor/medal-of-honor-pacific-assault/standard-edition, the-sims/the-sims-4/demo, battlefield/battlefield-4/standard-edition, apex/apex/free-to-play]
-simone.fossari@gmail.com:Superpro1 | DOB = 1993-02-15 | COUNTRY = IT | GAMES = [fifa/fifa-17/standard-edition, fifa/fifa-18/demo, unravel/unravel/standard-edition, apex/apex/free-to-play, titanfall/titanfall-2/standard-edition, star-wars/star-wars-battlefront/ultimate-edition, battlefield/battlefield-1/standard-edition]
 steinleber@gmail.com:Stein2003 | DOB = 2000-04-10 | COUNTRY = NL | GAMES = [apex/apex/free-to-play]
 donone8314@yahoo.com:Feb021483 | DOB = 1983-02-14 | COUNTRY = US
 j.depue@yahoo.com:November122007 | DOB = 1986-11-07 | COUNTRY = US | GAMES = [the-sims/the-sims-3/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-ambitions, simcity/simcity/limited-edition]
@@ -549,34 +494,27 @@ Eternium.Pulse@gmail.com:Gh05uh86 | DOB = 1995-06-16 | COUNTRY = FR | GAMES = [s
 brennan17baker@yahoo.com:B@sketball19 | Type = Premium for Students | Country = US
 gs_samet_ay@hotmail.com:Samsun55 | DOB = 1999-01-15 | COUNTRY = TR
 xxxmatviyxxx@gmail.com:Matveyka060109 | DOB = 1978-01-06 | COUNTRY = UA | GAMES = [the-sims/the-sims-4/trial]
-sjaeger172004@yahoo.com.au:Kids2008 | DOB = 1986-04-22 | COUNTRY = AU | GAMES = [star-wars/star-wars-the-old-republic/standard-edition, medal-of-honor/medal-of-honor/standard-edition, command-and-conquer/command-and-conquer-3/enhanced-edition, command-and-conquer/command-and-conquer-4/standard-edition, mass-effect/mass-effect-2/standard-edition, steamworld/steamworld-dig/standard-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-4/standard-edition, the-sims/the-sims-4/demo, crusader/crusader-no-remorse/standard-edition, burnout/burnout-paradise/ultimate-edition, mirrors-edge/mirrors-edge/standard-edition, populous/populous/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, battlefield/battlefield-3/standard-edition, peggle/peggle/standard-edition, dragon-age/dragon-age-ii/standard-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, mass-effect/mass-effect-2/deluxe-edition, the-sims/the-sims-2/standard-edition, command-and-conquer/command-and-conquer-generals/standard-edition, theme/theme-hospital/standard-edition, dead-space/dead-space-3/standard-edition, command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, titanfall/titanfall/trial, zuma/zumas-revenge/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, dragon-age/dragon-age-origins/ultimate-edition, the-sims/the-sims-3/standard-edition, mass-effect/mass-effect-3/standard-edition, command-and-conquer/command-and-conquer-renegade/standard-edition, crysis/crysis-2/maximum-edition, mass-effect/mass-effect/standard-edition, mass-effect/mass-effect-3/demo, mass-effect/mass-effect-3/collectors-edition, jade-empire/jade-empire/special-edition, dead-space/dead-space-2/standard-edition, bejeweled/bejeweled-3/standard-edition, fifa-world/fifa-world/free-to-play, need-for-speed/need-for-speed-most-wanted/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack, nox/nox/standard-edition, command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/originqa-04/standard-edition, dragon-age/dragon-age-origins/expansion/dragon-age-origins--awakening, mass-effect/mass-effect/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/trial, the-sims/the-sims-3/addon/the-sims-3-high-end-loft-stuff, command-and-conquer/command-and-conquer-4/legacy-edition, dragon-age/dragon-age-inquisition/standard-edition, simcity/simcity-2000/special-edition, star-wars/star-wars-the-old-republic/standard-edition, the-sims/the-sims-4/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition]
 brycecline17@gmail.com:Five5500 | DOB = 1988-09-09 | COUNTRY = US
 haydenlebeau1234@gmail.com:Hayden123 | DOB = 1999-06-16 | COUNTRY = US
 lamchunwai50@yahoo.com.hk:Ryan1223 | DOB = 1995-12-23 | COUNTRY = US | GAMES = [apex/apex/free-to-play, titanfall/titanfall/trial, battlefield/battlefield-3/standard-edition, battlefield/battlefield-4/standard-edition]
 javirachi99@hotmail.com:Pokemon9 | DOB = 1980-10-09 | COUNTRY = ES | GAMES = [mass-effect/mass-effect-2/standard-edition, the-sims/the-sims-4/demo]
 ferrari.jarek@wp.pl:Tygrysek1 | DOB = 1988-04-14 | COUNTRY = PL | GAMES = [crusader/crusader-no-remorse/standard-edition, medal-of-honor/medal-of-honor-warfighter/standard-edition, battlefield/battlefield-4/trial, fifa/fifa-13/demo, unravel/unravel/trial, fifa-world/fifa-world/free-to-play, need-for-speed/need-for-speed-most-wanted/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-bad-company-2/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, fifa/fifa-16/demo, dragon-age/dragon-age-origins/standard-edition, simcity/simcity-2000/special-edition, fifa/fifa-18/demo, battlefield/battlefield-hardline/demo, jade-empire/jade-empire/special-edition, the-sims/the-sims-4/demo, fifa/fifa-15/demo, dragon-age/dragon-age-inquisition/play-for-free, dead-space/dead-space-3/standard-edition, ultima/ultima-viii-pagan/gold-edition, dungeon-keeper/dungeon-keeper/standard-edition, fifa/fifa-12/standard-edition, the-sims/the-sims-4/standard-edition, mass-effect/mass-effect-3/demo, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, the-sims/the-sims-2/standard-edition, battlefield/battlefield-3/standard-edition, peggle/peggle/standard-edition, medal-of-honor/medal-of-honor/standard-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-1/trial, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, fifa/fifa-14/demo, nox/nox/standard-edition, battlefield/battlefield-4/trial, mass-effect/mass-effect-2/standard-edition, mass-effect/mass-effect-3/standard-edition]
-habuchiba@gmail.com:Yugioh01 | DOB = 1994-04-12 | COUNTRY = US | GAMES = [command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, command-and-conquer/command-and-conquer-generals/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition, command-and-conquer/command-and-conquer-3/enhanced-edition, command-and-conquer/originqa-04/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, the-sims/the-sims-4/standard-edition, apex/apex/free-to-play, command-and-conquer/command-and-conquer-4/legacy-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, command-and-conquer/command-and-conquer-renegade/standard-edition]
 feliperomano97@hotmail.com:Google123 | DOB = 1997-10-18 | COUNTRY = BR | GAMES = [fifa/fifa-16/demo, simcity/simcity/limited-edition, crysis/crysis-2/maximum-edition, dead-space/dead-space-3/standard-edition, burnout/burnout-paradise/ultimate-edition, the-sims/the-sims-3/addon/the-sims-3-high-end-loft-stuff, command-and-conquer/command-and-conquer-red-alert-3/expansion/command--conquer-red-alert-3-uprising, fifa/fifa-14/demo, apex/apex/free-to-play, fifa-world/fifa-world/free-to-play, medal-of-honor/medal-of-honor/standard-edition, dead-space/dead-space/standard-edition, fifa/fifa-16/standard-edition, mirrors-edge/mirrors-edge/standard-edition, fifa/fifa-17/demo, the-sims/the-sims-3/standard-edition, battlefield/battlefield-3/standard-edition, populous/populous/standard-edition, the-sims/the-sims-4/trial, need-for-speed/need-for-speed-most-wanted/standard-edition]
 w.grzegorzewski1204@gmail.com:Wiktor1290 | DOB = 1993-04-12 | COUNTRY = PL | GAMES = [plants-vs-zombies/plants-vs-zombies-garden-warfare-2/standard-edition, apex/apex/free-to-play]
 musickami28@gmail.com:Infrared28 | DOB = 1994-01-11 | COUNTRY = US | GAMES = [titanfall/titanfall/trial, apex/apex/free-to-play]
 djchrisme1@gmail.com:Devonte1 | DOB = 2000-08-29 | COUNTRY = US
-abroncosfan94@yahoo.com:Beastmode4tw | DOB = 1994-09-08 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 dylanscardino@gmail.com:Katyscardino1 | DOB = 1989-04-20 | COUNTRY = US
 alvaroga2001@gmail.com:Asga2001 | DOB = 1990-04-26 | COUNTRY = ES
 the_schnaps@hotmail.de:S342t63bgt4 | DOB = 1989-11-16 | COUNTRY = DE | GAMES = [apex/apex/free-to-play, battlefield/battlefield-2142/deluxe-edition, the-sims/the-sims-3/standard-edition, simcity/simcity-2000/special-edition, the-sims/the-sims-4/standard-edition, battlefield/battlefield-bad-company-2/standard-edition, battlefield/battlefield-3/expansion/battlefield-3-limited-edition, mass-effect/mass-effect-3/standard-edition]
 seanwiegold12@yahoo.co.uk:Lakeofblood23 | DOB = 1998-04-07 | COUNTRY = GB | GAMES = [star-wars/star-wars-battlefront-2/standard-edition, battlefield/battlefield-1/standard-edition, apex/apex/free-to-play]
 jonas.stuhr@hotmail.com:Uuh53bdq | DOB = 1990-05-09 | COUNTRY = DK | GAMES = [peggle/peggle/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/digital-deluxe-edition, need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-3/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, titanfall/titanfall/trial, fifa-world/fifa-world/free-to-play, jade-empire/jade-empire/special-edition, wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition]
-kesikparmakakin@gmail.com:Arda2004 | DOB = 1997-03-08 | COUNTRY = TR | GAMES = [apex/apex/free-to-play]
 jollyamelia2006@gmail.com:Bearbear10 | DOB = 2000-03-07 | COUNTRY = GB | GAMES = [the-sims/the-sims-4/standard-edition]
-mihaiciobu98@gmail.com:Nokialumia520 | DOB = 1998-11-22 | COUNTRY = IT | GAMES = [fifa/fifa-17/demo, battlefield/battlefield-4/trial, medal-of-honor/medal-of-honor-pacific-assault/standard-edition]
 damageless@web.de:SoulEater123 | DOB = 1997-10-04 | COUNTRY = DE | GAMES = [battlefield/battlefield-4/standard-edition, battlefield/battlefield-v/standard-edition, apex/apex/free-to-play, battlefield/battlefield-bad-company-2/standard-edition, battlefield/battlefield-hardline/demo]
 erguerafrancisco0@gmail.com:Luke0216 | DOB = 1996-02-16 | COUNTRY = US
 emeraldelf13@gmail.com:Otatop606060 | DOB = 1990-07-22 | COUNTRY = NO | GAMES = [wing-commander/wing-commander-iii-heart-of-the-tiger/standard-edition, titanfall/titanfall/trial, dead-space/dead-space/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, dragon-age/dragon-age-origins/standard-edition, nox/nox/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, medal-of-honor/medal-of-honor-pacific-assault/standard-edition, battlefield/battlefield-3/standard-edition, fifa-world/fifa-world/free-to-play, bejeweled/bejeweled-3/standard-edition, peggle/peggle/standard-edition, the-sims/the-sims-4/trial, the-sims/the-sims-2/standard-edition, crusader/crusader-no-remorse/standard-edition]
-bebertmail@yahoo.fr:Goldorack64 | DOB = 1979-02-27 | COUNTRY = CA
 coco_jorge2502@hotmail.com:Volumen100 | DOB = 1995-02-25 | COUNTRY = PE | GAMES = [fifa/fifa-15/demo, fifa-world/fifa-world/free-to-play, dragon-age/dragon-age-origins/standard-edition]
 ajjensen0415@gmail.com:Catdog55 | DOB = 1996-04-15 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 jaredcorpian@gmail.com:Jo5540222 | DOB = 1985-05-23 | COUNTRY = US | GAMES = [anthem/anthem/test-edition, the-sims/the-sims-4/trial, anthem/anthem/test-edition, simcity/simcity/trial, apex/apex/free-to-play]
-mattmcglynnwalsh@gmail.com:Tally2001 | DOB = 1988-11-03 | COUNTRY = CA
 kirayamato135@hotmail.com:Freedom1 | DOB = 1997-12-22 | COUNTRY = CA | GAMES = [battlefield/battlefield-3/standard-edition, apex/apex/free-to-play]
 ramanto2407@gmail.com:S0p0rt3t3c | DOB = 1999-07-24 | COUNTRY = ES | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition]
 alek.milo@icloud.com:Keller248 | DOB = 1969-06-15 | COUNTRY = US | GAMES = [apex/apex/free-to-play, battlefield/battlefield-4/standard-edition]
@@ -594,7 +532,6 @@ kalmaevd@mail.ru:Savior350 | DOB = 1969-02-23 | COUNTRY = RU | GAMES = [fifa-wor
 gmaze62@gmail.com:Karolek05 | DOB = 1995-05-11 | COUNTRY = PL | GAMES = [apex/apex/free-to-play]
 goldoscar.land@gmail.com:Oscar2006 | DOB = 2005-01-15 | COUNTRY = CA
 andriornjonsson@gmail.com:Anita1993 | DOB = 1993-08-16 | COUNTRY = IS | GAMES = [battlefield/battlefield-1/standard-edition, star-wars/star-wars-battlefront-2/standard-edition, apex/apex/free-to-play]
-christianrondon21@gmail.com:Snowflake99 | DOB = 1990-05-17 | COUNTRY = US
 elsenrs@hotmail.com:Oliver77 | DOB = 1850-05-05 | COUNTRY = US | GAMES = [star-wars/star-wars-battlefront/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare-2/trial]
 mihai.bibireata@gmail.com:Stratocaster117 | DOB = 1985-03-27 | COUNTRY = US | GAMES = [apex/apex/free-to-play, battlefield/battlefield-1942/free-to-play, battlefield/battlefield-3/standard-edition, star-wars/star-wars-jedi-fallen-order/standard-edition]
 dcutner1@gmail.com:Killerhurtz1 | DOB = 1995-06-08 | COUNTRY = GB | GAMES = [mass-effect/mass-effect-2/standard-edition, mass-effect/mass-effect/standard-edition, mass-effect/mass-effect-3/standard-edition]
@@ -612,14 +549,12 @@ horsesarebest111@hotmail.com:Animefreak6 | DOB = 1994-03-18 | COUNTRY = US | GAM
 hsimpsons301@gmail.com:Dewberrybear1 | DOB = 1997-06-14 | COUNTRY = PH
 ceaj15_2010@hotmail.com:Tjisfat2 | DOB = 1989-07-16 | COUNTRY = US | GAMES = [apex/apex/free-to-play, titanfall/titanfall-2/standard-edition, battlefield/battlefield-3/standard-edition, plants-vs-zombies/plants-vs-zombies-garden-warfare/trial, titanfall/titanfall/trial]
 iacobmarius881@yahoo.com:Marutu12 | DOB = 1978-08-12 | COUNTRY = RO
-r.bohlin59@gmail.com:Hogger90 | DOB = 1997-05-28 | COUNTRY = SE
 chaidez101@live.com:Cactus13 | DOB = 1990-12-29 | COUNTRY = US
 esaugutierrez@hotmail.com:Esau6666 | DOB = 1985-06-08 | COUNTRY = ES
 sultan.alsaeedi@yahoo.com:Sultan1234 | DOB = 1999-10-03 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 Darksoul9753@web.de:Shadowsoul2 | DOB = 1990-11-16 | COUNTRY = DE
 camille.cesaire@gmail.com:Parise66 | DOB = 1998-07-17 | COUNTRY = FR | GAMES = [the-sims/the-sims-4/digital-deluxe-edition]
 atte.makinen@outlook.com:Poliisi500 | DOB = 1995-11-06 | COUNTRY = BD | GAMES = [battlefield/battlefield-bad-company-2/standard-edition, apex/apex/free-to-play]
-danesandillo@aol.com:Danish21 | DOB = 1988-10-02 | COUNTRY = US
 lightbot20@gmail.com:Cardcard1 | DOB = 1992-06-04 | COUNTRY = GB | GAMES = [star-wars/star-wars-battlefront/trial]
 ambiguousalexx@yahoo.com:Rocker05* | DOB = 1994-02-17 | COUNTRY = US
 Christtoph@gmx.de:Chrille22 | DOB = 1965-06-06 | COUNTRY = SG | GAMES = [command-and-conquer/command-and-conquer-tiberian-sun/standard-edition, command-and-conquer/originqa-04/standard-edition, battlefield/battlefield-4/standard-edition, command-and-conquer/command-and-conquer/standard-edition, command-and-conquer/command-and-conquer-red-alert-3/enhanced-edition, command-and-conquer/command-and-conquer-renegade/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, mass-effect/mass-effect-3/demo, command-and-conquer/command-and-conquer-3/enhanced-edition, command-and-conquer/command-and-conquer-4/legacy-edition, command-and-conquer/command-and-conquer-the-ultimate-collection/addon/command--conquer-the-ultimate-collection-additional-content, command-and-conquer/command-and-conquer-generals/standard-edition]
@@ -637,9 +572,6 @@ pawel10-19@o2.pl:Pawcio96 | DOB = 1992-07-08 | COUNTRY = PL | GAMES = [apex/apex
 laurensverbruggen@gmail.com:Poep1234 | DOB = 1995-05-16 | COUNTRY = NL | GAMES = [battlefield/battlefield-3/expansion/battlefield-3-limited-edition, need-for-speed/need-for-speed-world/free-to-play, apex/apex/free-to-play, need-for-speed/need-for-speed-most-wanted/standard-edition, star-wars/star-wars-battlefront/trial, medal-of-honor/medal-of-honor-pacific-assault/standard-edition]
 kovalkov.1990@mail.ru:IK123456olp | DOB = 1990-03-25 | COUNTRY = NO
 andersendaniel70@yahoo.com:Password7769 | DOB = 1999-09-06 | COUNTRY = US | GAMES = [peggle/peggle/standard-edition]
-pcasta2285@gmail.com:Zxcvbnm1 | DOB = 1992-03-02 | COUNTRY = IT
-hamiauxangelo@hotmail.com:Kwebbel1 | DOB = 1997-04-27 | COUNTRY = BE | GAMES = [a-way-out/a-way-out/trial, apex/apex/free-to-play]
-stevesalazar1989@gmail.com:Bologna1 | DOB = 1989-11-25 | COUNTRY = US
 erron14archie@gmail.com:Baller1402 | DOB = 1995-04-07 | COUNTRY = US
 emmanuelkabalo@rocketmail.com:Emmanuel2 | DOB = 1994-06-27 | COUNTRY = GB | GAMES = [fifa-world/fifa-world/free-to-play, the-sims/the-sims-2/standard-edition]
 kennethbarrera910@gmail.com:Zombies321 | DOB = 1996-03-14 | COUNTRY = US
@@ -652,7 +584,6 @@ kubazabol98@wp.pl:Kubus1998 | DOB = 1997-02-27 | COUNTRY = PL | GAMES = [fifa-wo
 jairydb@verizon.net:Jdawgg99 | DOB = 1917-01-01 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 nolenzackary@yahoo.com:Honda1997 | DOB = 1997-07-22 | COUNTRY = US
 daltoncolbyray@gmail.com:Toot19955 | DOB = 1995-05-16 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
-sergiofresnot@hotmail.com:Blackops5 | DOB = 1994-10-18 | COUNTRY = ES
 mohamed.seify@gmail.com:Lol123lol123 | DOB = 1998-08-05 | COUNTRY = CA | GAMES = [apex/apex/free-to-play]
 percy01@gmx.de:Zeus2000 | DOB = 1994-08-15 | COUNTRY = DE
 satchan7@hotmail.com:Entei678 | DOB = 1998-05-24 | COUNTRY = PT | GAMES = [apex/apex/free-to-play]
@@ -662,28 +593,21 @@ bigleach03@gmail.com:William03 | DOB = 1999-01-08 | COUNTRY = US
 erykzaslonka2000@wp.pl:Antrusin14 | DOB = 1997-01-22 | COUNTRY = PL | GAMES = [spore/spore/standard-edition, apex/apex/free-to-play, dead-space/dead-space/standard-edition, battlefield/battlefield-1/standard-edition, battlefield/battlefield-3/expansion/battlefield-3-limited-edition, battlefield/battlefield-1/addon/battlefield-1-incursions, medal-of-honor/medal-of-honor-pacific-assault/standard-edition]
 marsacom2004@gmail.com:Mars2004 | DOB = 1978-01-07 | COUNTRY = US | GAMES = [the-sims/the-sims-4/standard-edition, the-sims/the-sims-4/standard-edition]
 luke42601@gmail.com:Luke0426 | DOB = 1975-02-19 | COUNTRY = US
-julia.stank@op.pl:Wiktoria1 | DOB = 1997-09-28 | COUNTRY = PL | GAMES = [the-sims/the-sims-3/standard-edition, the-sims/the-sims-4/standard-edition]
 mhelp_me@yahoo.co.jp:Maki0826 | DOB = 1997-08-26 | COUNTRY = JP | GAMES = [apex/apex/free-to-play]
 sam12996@aim.com:Minnieandjenna1 | DOB = 1987-01-29 | COUNTRY = US | GAMES = [the-sims/the-sims-3/standard-edition]
 merlinaruto@hotmail.fr:Dadou301 | DOB = 1994-07-20 | COUNTRY = FR
-cp.procaccini@gmail.com:Derekjeter2 | DOB = 2003-01-01 | COUNTRY = US
-busho@y7mail.com:Cartil69 | DOB = 1989-06-26 | COUNTRY = AU
 drestanta418@gmail.com:Heybru123 | DOB = 1986-01-01 | COUNTRY = AS
 sabedeau@gmail.com:Lesley24 | DOB = 1980-05-23 | COUNTRY = US | GAMES = [final-fantasy/final-fantasy-xv/demo, unravel/unravel/trial, simcity/simcity/standard-edition, the-sims/the-sims-4/standard-edition, the-sims/the-sims-4/demo, peggle/peggle/standard-edition]
 aeciii@gmail.com:Donovan23 | DOB = 1978-08-21 | COUNTRY = US
-celiamacaro@wanadoo.fr:Gazek7276 | DOB = 1976-06-12 | COUNTRY = FR | GAMES = [the-sims/the-sims-4/digital-deluxe-edition]
 mikaykrabben@gmail.com:Mikay2005 | DOB = 1990-12-15 | COUNTRY = NL | GAMES = [apex/apex/free-to-play, battlefield/battlefield-3/standard-edition]
 calistruv@gmail.com:Moldova1vo | DOB = 1997-08-16 | COUNTRY = MD | GAMES = [fifa/fifa-14/demo, fifa/fifa-16/demo, fifa/fifa-15/demo]
-martin.valdebenito83@gmail.com:Martins346 | DOB = 1999-12-22 | COUNTRY = ES | GAMES = [apex/apex/free-to-play]
 davidnb97@gmail.com:Diabetes17 | DOB = 1997-02-21 | COUNTRY = ES | GAMES = [the-sims/the-sims-4/standard-edition]
 radioslides@gmail.com:Arman7ryg5p | DOB = 1995-06-11 | COUNTRY = CA
 drewruppe22@gmail.com:Braves10! | DOB = 1995-12-15 | COUNTRY = US
 zvance1110@gmail.com:Houston2003 | DOB = 2003-11-10 | COUNTRY = US
-Akrammahadi2006@icloud.com:Cork2006 | DOB = 2000-11-09 | COUNTRY = IE
 rektitcola@gmail.com:Kraken99 | DOB = 1999-02-07 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
 jonzai777@gmail.com:Joncruz7 | DOB = 1987-04-18 | COUNTRY = US
 dracokillz45@gmail.com:Benten01 | DOB = 1994-09-17 | COUNTRY = US
-melonkat224@gmail.com:Warriors101 | DOB = 1994-03-27 | COUNTRY = US
 Kaitorico201507@gmail.com:Tonny2003 | DOB = 1999-07-08 | COUNTRY = CO | GAMES = [fifa/fifa-19/demo]
 walther0205@gmail.com:Molina0205 | DOB = 1991-02-25 | COUNTRY = VE | GAMES = [need-for-speed/need-for-speed-world/free-to-play]
 Brolander98@hotmail.com:Tolv1212 | DOB = 1992-05-01 | COUNTRY = SE | GAMES = [the-sims/the-sims-4/standard-edition, battlefield/battlefield-bad-company-2/standard-edition, apex/apex/free-to-play]
@@ -694,7 +618,6 @@ kanya_pat12@hotmail.com:Kanyapatp9 | DOB = 1997-05-26 | COUNTRY = TH | GAMES = [
 giovagi@outlook.com:Recreio201204 | DOB = 1971-12-20 | COUNTRY = BR | GAMES = [theme/theme-hospital/standard-edition, the-sims/the-sims-4/demo, simcity/simcity/trial, the-sims/the-sims-4/trial, plants-vs-zombies/plants-vs-zombies-garden-warfare/trial]
 giannarisdimitrios@gmail.com:Lp22051989 | DOB = 1989-05-22 | COUNTRY = GR
 giacomoz2002@gmail.com:Giacomo2002 | DOB = 1995-08-23 | COUNTRY = IT | GAMES = [peggle/peggle/standard-edition, apex/apex/free-to-play]
-ironmanlover98@gmail.com:Itunes1661 | DOB = 1998-10-10 | COUNTRY = US | GAMES = [the-sims/the-sims-4/limited-edition, simcity/simcity-2000/special-edition, the-sims/the-sims-4/demo, apex/apex/free-to-play]
 stericts@gmail.com:Omghi2u321 | DOB = 1986-07-10 | COUNTRY = GB | GAMES = [apex/apex/free-to-play]
 dlesel@seznam.cz:Qwertzui1 | DOB = 1986-07-21 | COUNTRY = US | GAMES = [the-sims/the-sims-4/demo, battlefield/battlefield-4/standard-edition]
 lukus120@hotmail.co.uk:Soullessangel1 | DOB = 1990-01-01 | COUNTRY = GB | GAMES = [alice/alice-madness-returns/standard-edition]
@@ -706,7 +629,6 @@ s_cheever@hotmail.com:Laxman93 | DOB = 1993-05-26 | COUNTRY = US | GAMES = [need
 jawjosh@gmail.com:Jawjosh123 | DOB = 1971-02-14 | COUNTRY = BS
 david.vlasak10@gmail.com:Didi2002 | DOB = 1993-04-21 | COUNTRY = AT | GAMES = [apex/apex/free-to-play]
 fevzi.gaming@hotmail.com:Ufukumut123 | DOB = 1997-12-14 | COUNTRY = DE | GAMES = [apex/apex/free-to-play]
-lukassilvaplays@gmail.com:Ferrari456 | DOB = 1995-08-24 | COUNTRY = BR | GAMES = [punch-club/punch-club/standard-edition, slay-the-spire/slay-the-spire/standard-edition, fifa/fifa-20/trial, apex/apex/free-to-play, the-sims/the-sims-4/standard-edition, dead-cells/dead-cells/standard-edition, battlefield/battlefield-4/premium-edition]
 robertnils84@hotmail.com:Downhill0011 | DOB = 1984-10-08 | COUNTRY = SE | GAMES = [the-sims/the-sims-4/standard-edition]
 crazy.boy-@live.cl:Tetasxd123 | DOB = 1994-06-19 | COUNTRY = CL | GAMES = [plants-vs-zombies/plants-vs-zombies/standard-edition, need-for-speed/need-for-speed-world/free-to-play, dead-space/dead-space/standard-edition, theme/theme-hospital/standard-edition, the-sims/the-sims-2/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, apex/apex/free-to-play, syndicate/syndicate-1993/standard-edition, need-for-speed/need-for-speed-most-wanted/standard-edition, dragon-age/dragon-age-origins/standard-edition, command-and-conquer/command-and-conquer-red-alert-2/standard-edition, peggle/peggle/standard-edition, battlefield/battlefield-3/standard-edition, the-sims/the-sims-4/standard-edition]
 gabrielf9@ymail.com:Nick2011 | DOB = 1982-06-29 | COUNTRY = US | GAMES = [dead-space/dead-space-2/standard-edition, dead-space/dead-space/standard-edition, battlefield/battlefield-1942/free-to-play, need-for-speed/need-for-speed-world/free-to-play, titanfall/titanfall/trial, battlefield/battlefield-3/standard-edition]
@@ -759,7 +681,6 @@ lboehmisch@gmail.com:Luke1991 | DOB = 1991-06-02 | COUNTRY = US | GAMES = [comma
 legendariskalinnea@hotmail.com:Tussan30 | DOB = 1997-02-08 | COUNTRY = SE | GAMES = [the-sims/the-sims-3/expansion/the-sims-3-ambitions, mirrors-edge/mirrors-edge/standard-edition, the-sims/the-sims-3/expansion/the-sims-3-late-night-expansion-pack, need-for-speed/need-for-speed-world/free-to-play, battlefield/battlefield-3/standard-edition, theme/theme-hospital/standard-edition, dead-space/dead-space/standard-edition, dead-space/dead-space-3/standard-edition, crysis/crysis-2/maximum-edition, the-sims/the-sims-3/standard-edition, plants-vs-zombies/plants-vs-zombies/standard-edition, burnout/burnout-paradise/ultimate-edition, medal-of-honor/medal-of-honor/standard-edition, the-sims/the-sims-3/addon/the-sims-3-high-end-loft-stuff, the-sims/the-sims-3/expansion/the-sims-3-seasons, the-sims/the-sims-4/trial, apex/apex/free-to-play]
 tannerwood801@gmail.com:Ukikafuki1 | DOB = 1984-06-17 | COUNTRY = US
 ericwu0508@gmail.com:Wqaz11223 | DOB = 2000-05-08 | COUNTRY = TW | GAMES = [the-sims/the-sims-4/standard-edition]
-daviderosso75@gmail.com:Banana24 | DOB = 2000-09-25 | COUNTRY = IT | GAMES = [apex/apex/free-to-play]
 id4kostas@gmail.com:Darkwolf9 | DOB = 1979-09-18 | COUNTRY = GR
 ByDecorex@gmail.com:Andres23 | DOB = 1994-08-16 | COUNTRY = VE | GAMES = [the-sims/the-sims-4/standard-edition]
 stevenbarreto232@gmail.com:Druid101 | DOB = 1998-07-01 | COUNTRY = US | GAMES = [apex/apex/free-to-play]
@@ -786,4 +707,3 @@ jbaber722@gmail.com:USArules1 | DOB = 1994-03-03 | COUNTRY = US | GAMES = [plant
 Dunnkv@gmail.com:Carlo2002 | DOB = 1993-01-26 | COUNTRY = IT | GAMES = [apex/apex/free-to-play]
 lexie.rock.on@hotmail.com:Lilgirl52 | DOB = 1982-01-17 | COUNTRY = CA
 orhunkeles1903@hotmail.com:Orhun1903 | DOB = 1990-01-01 | COUNTRY = TR
-ristor20@gmail.com:Juurikas15 | DOB = 1995-12-12 | COUNTRY = EE | GAMES = [fifa-world/fifa-world/free-to-play, need-for-speed/need-for-speed-world/free-to-play]
